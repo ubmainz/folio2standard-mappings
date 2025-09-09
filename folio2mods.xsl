@@ -31,10 +31,6 @@
         </mods:titleInfo>
     </xsl:template>
     
-    <xsl:template match="id">
-        
-    </xsl:template>
-
     <xsl:template match="bareHoldingsItems" mode="holdings"> <!-- mapping each item of all holdings on mods:copyInformation -->
         <mods:copyInformation>
             <xsl:apply-templates select="materialType" mode="item"/>
