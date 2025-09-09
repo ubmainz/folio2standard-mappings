@@ -36,9 +36,9 @@
     </xsl:template>
 
     <xsl:template match="bareHoldingsItems" mode="holdings"> <!-- mapping each item of all holdings on mods:copyInformation -->
-        <!-- permanentLocation is empty on item level - fetching from holding level as workaround -->
+        <!-- permanentLocation is inherited here -->
         <mods:copyInformation>
-            <xsl:apply-templates select="materialType,../permanentLocation,effectiveCallNumberComponents,../notes,chronology,copyNumber,barcode,hrid" mode="item"/>
+            <xsl:apply-templates select="materialType,(permanentLocation[name/text()],../permanentLocation[name/text()])[1],effectiveCallNumberComponents,../notes,chronology,copyNumber,barcode,hrid" mode="item"/>
         </mods:copyInformation>
     </xsl:template>
     
