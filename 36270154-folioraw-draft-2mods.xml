@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <mods:titleInfo>
-      <mods:title>Gerthsen Physik : mit 92 Tabellen, 109 durchgerechneten Beispielen und 1049 Aufgaben mit vollständigen Lösungswegen ; [die ganze Physik zum 21. Jahrhundert] / Dieter Meschede</mods:title>
-   </mods:titleInfo>
-   <mods:location>
-      <mods:physicalLocation>UB Mainz</mods:physicalLocation>
-      <mods:holdingSimple>
-         <mods:copyInformation>
-            <mods:form>Druckschrift</mods:form>
-            <mods:subLocation>BB MINT</mods:subLocation>
-            <mods:shelfLocator>UC 1000 GER1 (21) +2</mods:shelfLocator>
-            <mods:note type="Note">PMC 2007 Übernahme aus ZB</mods:note>
-            <mods:note type="Letzte Änderung CBS">21.02.18 16:57</mods:note>
-            <mods:note type="Weitere Signaturen (7101)">4° BD 859</mods:note>
-            <mods:note type="Weitere Signaturen (7101)">BD 859</mods:note>
-            <mods:itemIdentifier type="barcode">36270154</mods:itemIdentifier>
-            <mods:itemIdentifier type="hrid">164092595-1</mods:itemIdentifier>
-         </mods:copyInformation>
-      </mods:holdingSimple>
-   </mods:location>
-   <mods:recordInfo>
-      <mods:recordIdentifier source="hrid">09951009X</mods:recordIdentifier>
-      <mods:recordIdentifier source="uuid">c73ea34e-7b39-4e6c-af6b-45a1066f590b</mods:recordIdentifier>
-   </mods:recordInfo>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <mods:titleInfo>
+    <mods:title>Gerthsen Physik : mit 92 Tabellen, 109 durchgerechneten Beispielen und 1049 Aufgaben mit vollständigen Lösungswegen ; [die ganze Physik zum 21. Jahrhundert] / Dieter Meschede</mods:title>
+  </mods:titleInfo>
+  <mods:location>
+    <mods:physicalLocation>UB Mainz</mods:physicalLocation>
+    <mods:holdingSimple>
+      <mods:copyInformation>
+        <mods:form>Druckschrift</mods:form>
+        <mods:subLocation>BB MINT</mods:subLocation>
+        <mods:shelfLocator>UC 1000 GER1 (21) +2</mods:shelfLocator>
+        <mods:note type="Note">PMC 2007 Übernahme aus ZB</mods:note>
+        <mods:note type="Letzte Änderung CBS">21.02.18 16:57</mods:note>
+        <mods:note type="Weitere Signaturen (7101)">4° BD 859</mods:note>
+        <mods:note type="Weitere Signaturen (7101)">BD 859</mods:note>
+        <mods:itemIdentifier type="barcode">36270154</mods:itemIdentifier>
+        <mods:itemIdentifier type="hrid">164092595-1</mods:itemIdentifier>
+      </mods:copyInformation>
+    </mods:holdingSimple>
+  </mods:location>
+  <mods:recordInfo>
+    <mods:recordIdentifier source="hrid">09951009X</mods:recordIdentifier>
+    <mods:recordIdentifier source="uuid">c73ea34e-7b39-4e6c-af6b-45a1066f590b</mods:recordIdentifier>
+  </mods:recordInfo>
 </mods:mods>
