@@ -1,0 +1,134 @@
+<opt>
+  <id>db8c3ef3-bc47-46a8-8f53-d146a339febf</id>
+  <contributors>
+    <name>Trotta, Margarethe von</name>
+    <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+    <primary>0</primary>
+  </contributors>
+  <contributors>
+    <name>Engel, Tina, 1950-</name>
+    <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+    <primary>0</primary>
+  </contributors>
+  <contributors>
+    <name>Reize, Sylvia, 1950-</name>
+    <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+    <primary>0</primary>
+  </contributors>
+  <contributors>
+    <name>Thalbach, Katharina, 1954-</name>
+    <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+    <primary>0</primary>
+  </contributors>
+  <contributors>
+    <name>Müller-Westernhage, Marius</name>
+    <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+    <primary>0</primary>
+  </contributors>
+  <contributors>
+    <name>Schneider, Peter, 1940-</name>
+    <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+    <primary>0</primary>
+  </contributors>
+  <contributors>
+    <name>Francia, Luisa</name>
+    <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+    <primary>0</primary>
+  </contributors>
+  <contributors>
+    <name>Junkersdorf, Eberhard</name>
+    <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+    <primary>0</primary>
+  </contributors>
+  <contributors>
+    <name>Doldinger, Klaus</name>
+    <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+    <primary>0</primary>
+  </contributors>
+  <contributors>
+    <name>Dorn, Annette</name>
+    <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+    <primary>0</primary>
+  </contributors>
+  <contributors>
+    <name>Witte, Gunther</name>
+    <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+    <primary>0</primary>
+  </contributors>
+  <contributors>
+    <name>Water Bearer Films (Firm)</name>
+    <contributorNameTypeId>2e48e713-17f3-4c13-a9f8-23845bb210aa</contributorNameTypeId>
+    <primary>0</primary>
+  </contributors>
+  <contributors>
+    <name>Cinéma Esperançaa (Firm)</name>
+    <contributorNameTypeId>2e48e713-17f3-4c13-a9f8-23845bb210aa</contributorNameTypeId>
+    <primary>0</primary>
+  </contributors>
+  <contributors>
+    <name>Bioskop-Film</name>
+    <contributorNameTypeId>2e48e713-17f3-4c13-a9f8-23845bb210aa</contributorNameTypeId>
+    <primary>0</primary>
+  </contributors>
+  <contributors>
+    <name>Westdeutscher Rundfunk</name>
+    <contributorNameTypeId>2e48e713-17f3-4c13-a9f8-23845bb210aa</contributorNameTypeId>
+    <primary>0</primary>
+  </contributors>
+  <contributors>
+    <name>Filmverlag der Autoren</name>
+    <contributorNameTypeId>2e48e713-17f3-4c13-a9f8-23845bb210aa</contributorNameTypeId>
+    <primary>0</primary>
+  </contributors>
+  <holdingsRecords2>
+    <bareHoldingsItems>
+      <id>b70828ae-b8a5-42db-88f3-acaed75049db</id>
+      <accessionNumber></accessionNumber>
+      <barcode>39151006307116</barcode>
+      <chronology></chronology>
+      <copyNumber></copyNumber>
+      <descriptionOfPieces></descriptionOfPieces>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>MC VC LU 2836</callNumber>
+        <prefix></prefix>
+        <suffix></suffix>
+      </effectiveCallNumberComponents>
+      <enumeration></enumeration>
+      <hrid>834586</hrid>
+      <itemIdentifier></itemIdentifier>
+      <materialType>
+        <name>video recording</name>
+      </materialType>
+      <permanentLocation></permanentLocation>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation></temporaryLocation>
+      <volume></volume>
+    </bareHoldingsItems>
+    <callNumber>MC VC LU 2836</callNumber>
+    <callNumberPrefix></callNumberPrefix>
+    <callNumberSuffix></callNumberSuffix>
+    <copyNumber></copyNumber>
+    <permanentLocation>
+      <name>Fairchild - 5th Floor - North - Media Collection</name>
+      <institution>
+        <name>Lehigh University</name>
+      </institution>
+      <library>
+        <name>Fairchild Martindale Library</name>
+      </library>
+    </permanentLocation>
+    <shelvingTitle></shelvingTitle>
+    <temporaryLocation></temporaryLocation>
+  </holdingsRecords2>
+  <hrid></hrid>
+  <modeOfIssuanceId></modeOfIssuanceId>
+  <publication>
+    <dateOfPublication>c1997</dateOfPublication>
+    <publisher>Waterbearer Films</publisher>
+  </publication>
+  <source></source>
+  <title>Das zweite Erwachen der Christa Klages [videorecording] = The second awakening of Christa Klages / Cinéma Esperança ; Filmverlag der Autoren ; eine Produktion der Bioskop-Film München, in Zusammenarbeit mit dem WDR ; Regie, Margarethe von Trotta ; Drehbuch, Margarethe Von Trotta, Luisa Francia ; Kamera, Franz Rath ; Musik, Klaus Doldinger ; Schnitt, Annette Dorn ; Redaktion, Gunther Witte ; producer, Eberhard Junkersdorf.</title>
+</opt>

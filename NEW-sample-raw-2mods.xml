@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <mods:name>
+      <mods:displayForm>Trotta, Margarethe von</mods:displayForm>
+   </mods:name>
+   <mods:name>
+      <mods:displayForm>Engel, Tina, 1950-</mods:displayForm>
+   </mods:name>
+   <mods:name>
+      <mods:displayForm>Reize, Sylvia, 1950-</mods:displayForm>
+   </mods:name>
+   <mods:name>
+      <mods:displayForm>Thalbach, Katharina, 1954-</mods:displayForm>
+   </mods:name>
+   <mods:name>
+      <mods:displayForm>Müller-Westernhage, Marius</mods:displayForm>
+   </mods:name>
+   <mods:name>
+      <mods:displayForm>Schneider, Peter, 1940-</mods:displayForm>
+   </mods:name>
+   <mods:name>
+      <mods:displayForm>Francia, Luisa</mods:displayForm>
+   </mods:name>
+   <mods:name>
+      <mods:displayForm>Junkersdorf, Eberhard</mods:displayForm>
+   </mods:name>
+   <mods:name>
+      <mods:displayForm>Doldinger, Klaus</mods:displayForm>
+   </mods:name>
+   <mods:name>
+      <mods:displayForm>Dorn, Annette</mods:displayForm>
+   </mods:name>
+   <mods:name>
+      <mods:displayForm>Witte, Gunther</mods:displayForm>
+   </mods:name>
+   <mods:name>
+      <mods:displayForm>Water Bearer Films (Firm)</mods:displayForm>
+   </mods:name>
+   <mods:name>
+      <mods:displayForm>Cinéma Esperançaa (Firm)</mods:displayForm>
+   </mods:name>
+   <mods:name>
+      <mods:displayForm>Bioskop-Film</mods:displayForm>
+   </mods:name>
+   <mods:name>
+      <mods:displayForm>Westdeutscher Rundfunk</mods:displayForm>
+   </mods:name>
+   <mods:name>
+      <mods:displayForm>Filmverlag der Autoren</mods:displayForm>
+   </mods:name>
+   <mods:originInfo>
+      <mods:publisher>Waterbearer Films</mods:publisher>
+      <mods:dateIssued encoding="w3cdtf" keyDate="yes">c1997</mods:dateIssued>
+   </mods:originInfo>
+   <mods:titleInfo>
+      <mods:title>Das zweite Erwachen der Christa Klages [videorecording] = The second awakening of Christa Klages / Cinéma Esperança ; Filmverlag der Autoren ; eine Produktion der Bioskop-Film München, in Zusammenarbeit mit dem WDR ; Regie, Margarethe von Trotta ; Drehbuch, Margarethe Von Trotta, Luisa Francia ; Kamera, Franz Rath ; Musik, Klaus Doldinger ; Schnitt, Annette Dorn ; Redaktion, Gunther Witte ; producer, Eberhard Junkersdorf.</mods:title>
+   </mods:titleInfo>
+   <mods:location>
+      <mods:physicalLocation>Lehigh University</mods:physicalLocation>
+      <mods:holdingSimple>
+         <mods:copyInformation>
+            <mods:form>video recording</mods:form>
+            <mods:subLocation>Fairchild - 5th Floor - North - Media Collection</mods:subLocation>
+            <mods:shelfLocator>MC VC LU 2836</mods:shelfLocator>
+            <mods:itemIdentifier type="barcode">39151006307116</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">834586</mods:itemIdentifier>
+         </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:recordInfo>
+      <mods:recordIdentifier source="hrid"/>
+      <mods:recordIdentifier source="uuid">db8c3ef3-bc47-46a8-8f53-d146a339febf</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>
