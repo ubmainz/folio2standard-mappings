@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opt>
+    <id>e54b1f4d-7d05-4b1a-9368-3c36b75d8ac6</id>
+    <administrativeNotes></administrativeNotes>
+    <alternativeTitles></alternativeTitles>
+    <classifications>
+        <classificationNumber>M1366.S67</classificationNumber>
+        <classificationTypeId>ce176ace-a53e-4b4d-aa89-725ed7b2edac</classificationTypeId>
+    </classifications>
+    <contributors>
+        <name>Sosa, Omar</name>
+        <authorityId></authorityId>
+        <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+        <contributorTypeId>9f0a2cf0-7a9b-45a2-a403-f68d2850d07c</contributorTypeId>
+        <contributorTypeText></contributorTypeText>
+        <primary></primary>
+    </contributors>
+    <contributors>
+        <name>Keita, Seckou, 1977-</name>
+        <authorityId></authorityId>
+        <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+        <contributorTypeId>9f0a2cf0-7a9b-45a2-a403-f68d2850d07c</contributorTypeId>
+        <contributorTypeText></contributorTypeText>
+        <primary></primary>
+    </contributors>
+    <dates></dates>
+    <discoverySuppress>0</discoverySuppress>
+    <holdingsRecords2>
+        <callNumber>M1366.S67 T73 2017</callNumber>
+        <callNumberPrefix></callNumberPrefix>
+        <callNumberSuffix></callNumberSuffix>
+        <copyNumber></copyNumber>
+        <holdingsStatements>
+            <note></note>
+            <staffNote></staffNote>
+            <statement>Line 1b</statement>
+        </holdingsStatements>
+        <holdingsStatements>
+            <note></note>
+            <staffNote></staffNote>
+            <statement>Line 2b</statement>
+        </holdingsStatements>
+        <permanentLocation>
+            <name>Main Library</name>
+            <institution>
+                <name>Københavns Universitet</name>
+            </institution>
+            <library>
+                <name>Datalogisk Institut</name>
+            </library>
+        </permanentLocation>
+        <shelvingTitle></shelvingTitle>
+        <temporaryLocation></temporaryLocation>
+    </holdingsRecords2>
+    <hrid>inst000000000025</hrid>
+    <identifiers>
+        <identifierTypeId>5d164f4b-0b15-4e42-ae75-cfcf85318ad9</identifierTypeId>
+        <value>ocn968777846</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>8261054f-be78-422d-bd51-4ed9f33c3422</identifierTypeId>
+        <value>9786316800312</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>8261054f-be78-422d-bd51-4ed9f33c3422</identifierTypeId>
+        <value>6316800312</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>b5d8cdc4-9441-487c-90cf-0c7ec97728eb</identifierTypeId>
+        <value>OTA-1031 Otá Records</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>7e591197-f335-4afb-bc6d-a6d76ca3bace</identifierTypeId>
+        <value>(OCoLC)968777846</value>
+    </identifiers>
+    <indexTitle></indexTitle>
+    <instanceFormatIds>5cb91d15-96b1-4b8a-bf60-ec310538da66</instanceFormatIds>
+    <instanceTypeId>3be24c14-3551-4180-9292-26a786649c8b</instanceTypeId>
+    <isBoundWith>0</isBoundWith>
+    <languages>und</languages>
+    <metadata>
+        <createdByUserId></createdByUserId>
+        <createdDate>2025-09-19T01:54:06.820Z</createdDate>
+        <updatedByUserId></updatedByUserId>
+        <updatedDate>2025-09-19T01:54:06.820Z</updatedDate>
+    </metadata>
+    <modeOfIssuanceId></modeOfIssuanceId>
+    <natureOfContentTermIds></natureOfContentTermIds>
+    <publication>
+        <dateOfPublication>[2017]</dateOfPublication>
+        <place>[Place of publication not identified]: </place>
+        <publisher>Otá Records, </publisher>
+    </publication>
+    <series></series>
+    <shared>0</shared>
+    <source>FOLIO</source>
+    <staffSuppress>0</staffSuppress>
+    <statisticalCodeIds></statisticalCodeIds>
+    <statusId></statusId>
+    <subjects>
+        <authorityId></authorityId>
+        <sourceId></sourceId>
+        <typeId></typeId>
+        <value>World music.</value>
+    </subjects>
+    <subjects>
+        <authorityId></authorityId>
+        <sourceId></sourceId>
+        <typeId></typeId>
+        <value>Jazz</value>
+    </subjects>
+    <tags></tags>
+    <tenantId>diku</tenantId>
+    <title>Transparent water</title>
+</opt>

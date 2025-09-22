@@ -1,160 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  <mods:titleInfo>
-    <mods:title>Frankfurter Allgemeine : Zeitung für Deutschland. Ausgabe D</mods:title>
-  </mods:titleInfo>
-  <mods:location>
-    <mods:physicalLocation>UB Mainz</mods:physicalLocation>
-    <mods:holdingSimple>
-      <mods:copyInformation>
-        <mods:form>0 Druckschrift</mods:form>
-        <mods:subLocation>ZB Magazin</mods:subLocation>
-        <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
-        <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
-        <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
-        <mods:enumerationAndChronology unitType="1">2004,02,10</mods:enumerationAndChronology>
-        <mods:itemIdentifier type="barcode">12158892</mods:itemIdentifier>
-        <mods:itemIdentifier type="hrid">it00000002889</mods:itemIdentifier>
-      </mods:copyInformation>
-      <mods:copyInformation>
-        <mods:form>0 Druckschrift</mods:form>
-        <mods:subLocation>ZB Magazin</mods:subLocation>
-        <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
-        <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
-        <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
-        <mods:enumerationAndChronology unitType="1">2019,06,01</mods:enumerationAndChronology>
-        <mods:itemIdentifier type="barcode">18394576</mods:itemIdentifier>
-        <mods:itemIdentifier type="hrid">it00000002878</mods:itemIdentifier>
-      </mods:copyInformation>
-      <mods:copyInformation>
-        <mods:form>0 Druckschrift</mods:form>
-        <mods:subLocation>ZB Magazin</mods:subLocation>
-        <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
-        <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
-        <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
-        <mods:enumerationAndChronology unitType="1">2019,10,01</mods:enumerationAndChronology>
-        <mods:itemIdentifier type="barcode">18389430</mods:itemIdentifier>
-        <mods:itemIdentifier type="hrid">it00000002879</mods:itemIdentifier>
-      </mods:copyInformation>
-      <mods:copyInformation>
-        <mods:form>0 Druckschrift</mods:form>
-        <mods:subLocation>ZB Magazin</mods:subLocation>
-        <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
-        <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
-        <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
-        <mods:enumerationAndChronology unitType="1">2020,01,02</mods:enumerationAndChronology>
-        <mods:itemIdentifier type="barcode">18595752</mods:itemIdentifier>
-        <mods:itemIdentifier type="hrid">it00000002880</mods:itemIdentifier>
-      </mods:copyInformation>
-      <mods:copyInformation>
-        <mods:form>0 Druckschrift</mods:form>
-        <mods:subLocation>ZB Magazin</mods:subLocation>
-        <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
-        <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
-        <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
-        <mods:enumerationAndChronology unitType="1">2020,05,02</mods:enumerationAndChronology>
-        <mods:itemIdentifier type="barcode">18595790</mods:itemIdentifier>
-        <mods:itemIdentifier type="hrid">it00000002881</mods:itemIdentifier>
-      </mods:copyInformation>
-      <mods:copyInformation>
-        <mods:form>0 Druckschrift</mods:form>
-        <mods:subLocation>ZB Magazin</mods:subLocation>
-        <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
-        <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
-        <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
-        <mods:enumerationAndChronology unitType="1">2021,05,03</mods:enumerationAndChronology>
-        <mods:itemIdentifier type="barcode">18692290</mods:itemIdentifier>
-        <mods:itemIdentifier type="hrid">it00000002882</mods:itemIdentifier>
-      </mods:copyInformation>
-      <mods:copyInformation>
-        <mods:form>0 Druckschrift</mods:form>
-        <mods:subLocation>ZB Magazin</mods:subLocation>
-        <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
-        <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
-        <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
-        <mods:enumerationAndChronology unitType="1">2005,10,25</mods:enumerationAndChronology>
-        <mods:itemIdentifier type="barcode">12153523</mods:itemIdentifier>
-        <mods:itemIdentifier type="hrid">it00000002883</mods:itemIdentifier>
-      </mods:copyInformation>
-      <mods:copyInformation>
-        <mods:form>0 Druckschrift</mods:form>
-        <mods:subLocation>ZB Magazin</mods:subLocation>
-        <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
-        <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
-        <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
-        <mods:enumerationAndChronology unitType="1">2005,08,20</mods:enumerationAndChronology>
-        <mods:itemIdentifier type="barcode">12153249</mods:itemIdentifier>
-        <mods:itemIdentifier type="hrid">it00000002884</mods:itemIdentifier>
-      </mods:copyInformation>
-      <mods:copyInformation>
-        <mods:form>0 Druckschrift</mods:form>
-        <mods:subLocation>ZB Magazin</mods:subLocation>
-        <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
-        <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
-        <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
-        <mods:enumerationAndChronology unitType="1">2005,05,14</mods:enumerationAndChronology>
-        <mods:itemIdentifier type="barcode">12153353</mods:itemIdentifier>
-        <mods:itemIdentifier type="hrid">it00000002885</mods:itemIdentifier>
-      </mods:copyInformation>
-      <mods:copyInformation>
-        <mods:form>0 Druckschrift</mods:form>
-        <mods:subLocation>ZB Magazin</mods:subLocation>
-        <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
-        <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
-        <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
-        <mods:enumerationAndChronology unitType="1">2005,02,28</mods:enumerationAndChronology>
-        <mods:itemIdentifier type="barcode">12153390</mods:itemIdentifier>
-        <mods:itemIdentifier type="hrid">it00000002886</mods:itemIdentifier>
-      </mods:copyInformation>
-      <mods:copyInformation>
-        <mods:form>0 Druckschrift</mods:form>
-        <mods:subLocation>ZB Magazin</mods:subLocation>
-        <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
-        <mods:note type="Letzte Änderung CBS">19.01.24 09:30</mods:note>
-        <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
-        <mods:itemIdentifier type="barcode"/>
-        <mods:itemIdentifier type="hrid">125194927-1</mods:itemIdentifier>
-      </mods:copyInformation>
-      <mods:copyInformation>
-        <mods:form>0 Druckschrift</mods:form>
-        <mods:subLocation>ZB Magazin</mods:subLocation>
-        <mods:shelfLocator>2° Y 8252</mods:shelfLocator>
-        <mods:note type="Letzte Änderung CBS">12.08.24 22:39</mods:note>
-        <mods:note type="Lokaler Schlüssel">00249</mods:note>
-        <mods:itemIdentifier type="barcode"/>
-        <mods:itemIdentifier type="hrid">744426545-1</mods:itemIdentifier>
-      </mods:copyInformation>
-      <mods:copyInformation>
-        <mods:form>0 Druckschrift</mods:form>
-        <mods:subLocation>ZB Magazin</mods:subLocation>
-        <mods:shelfLocator>2° Y 8252</mods:shelfLocator>
-        <mods:note type="Letzte Änderung CBS">12.08.24 22:39</mods:note>
-        <mods:note type="Lokaler Schlüssel">00249</mods:note>
-        <mods:enumerationAndChronology unitType="1">1949</mods:enumerationAndChronology>
-        <mods:itemIdentifier type="barcode">15918704</mods:itemIdentifier>
-        <mods:itemIdentifier type="hrid">it00000016637</mods:itemIdentifier>
-      </mods:copyInformation>
-      <mods:copyInformation>
-        <mods:form>0 Druckschrift</mods:form>
-        <mods:subLocation>ZB Magazin</mods:subLocation>
-        <mods:shelfLocator>Zeitungsarchiv Publizistik</mods:shelfLocator>
-        <mods:note type="Standort (8201)">Georg Forster-Gebäude, UG Raum 401</mods:note>
-        <mods:note type="Letzte Änderung CBS">12.08.24 22:39</mods:note>
-        <mods:itemIdentifier type="barcode"/>
-        <mods:itemIdentifier type="hrid">801203333-1</mods:itemIdentifier>
-      </mods:copyInformation>
-      <mods:copyInformation>
-        <mods:form>0 Druckschrift</mods:form>
-        <mods:subLocation>BB TSK Magazin</mods:subLocation>
-        <mods:shelfLocator>Ztg 2</mods:shelfLocator>
-        <mods:note type="Letzte Änderung CBS">12.08.24 22:39</mods:note>
-        <mods:itemIdentifier type="barcode"/>
-        <mods:itemIdentifier type="hrid">083514821-1</mods:itemIdentifier>
-      </mods:copyInformation>
-    </mods:holdingSimple>
-  </mods:location>
-  <mods:recordInfo>
-    <mods:recordIdentifier source="hrid"/>
-    <mods:recordIdentifier source="uuid">d7bec709-5821-4c17-9493-f5e86568e8b9</mods:recordIdentifier>
-  </mods:recordInfo>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <mods:titleInfo>
+      <mods:title>Frankfurter Allgemeine : Zeitung für Deutschland. Ausgabe D</mods:title>
+   </mods:titleInfo>
+   <mods:location>
+      <mods:physicalLocation>UB Mainz</mods:physicalLocation>
+      <mods:holdingSimple>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
+            <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
+            <mods:enumerationAndChronology unitType="1">2004,02,10</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">12158892</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000002889</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
+            <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
+            <mods:enumerationAndChronology unitType="1">2019,06,01</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">18394576</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000002878</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
+            <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
+            <mods:enumerationAndChronology unitType="1">2019,10,01</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">18389430</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000002879</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
+            <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
+            <mods:enumerationAndChronology unitType="1">2020,01,02</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">18595752</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000002880</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
+            <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
+            <mods:enumerationAndChronology unitType="1">2020,05,02</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">18595790</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000002881</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
+            <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
+            <mods:enumerationAndChronology unitType="1">2021,05,03</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">18692290</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000002882</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
+            <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
+            <mods:enumerationAndChronology unitType="1">2005,10,25</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">12153523</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000002883</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
+            <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
+            <mods:enumerationAndChronology unitType="1">2005,08,20</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">12153249</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000002884</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
+            <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
+            <mods:enumerationAndChronology unitType="1">2005,05,14</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">12153353</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000002885</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">05.04.24 08:50</mods:note>
+            <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
+            <mods:enumerationAndChronology unitType="1">2005,02,28</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">12153390</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000002886</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>R ZTG 40</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">19.01.24 09:30</mods:note>
+            <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">125194927-1</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>2° Y 8252</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.08.24 22:39</mods:note>
+            <mods:note type="Lokaler Schlüssel">00249</mods:note>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">744426545-1</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>2° Y 8252</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.08.24 22:39</mods:note>
+            <mods:note type="Lokaler Schlüssel">00249</mods:note>
+            <mods:enumerationAndChronology unitType="1">1949</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">15918704</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000016637</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>Zeitungsarchiv Publizistik</mods:shelfLocator>
+            <mods:note type="Standort (8201)">Georg Forster-Gebäude, UG Raum 401</mods:note>
+            <mods:note type="Letzte Änderung CBS">12.08.24 22:39</mods:note>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">801203333-1</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>BB TSK Magazin</mods:subLocation>
+            <mods:shelfLocator>Ztg 2</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.08.24 22:39</mods:note>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">083514821-1</mods:itemIdentifier>
+         </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:recordInfo>
+      <mods:recordIdentifier source=""/>
+      <mods:recordIdentifier source="uuid">d7bec709-5821-4c17-9493-f5e86568e8b9</mods:recordIdentifier>
+   </mods:recordInfo>
 </mods:mods>

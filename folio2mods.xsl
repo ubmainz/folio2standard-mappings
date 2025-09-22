@@ -19,7 +19,7 @@
                 </mods:holdingSimple>
             </mods:location>
             <mods:recordInfo>
-                <mods:recordIdentifier source="hrid"><xsl:value-of select="hrid"/></mods:recordIdentifier>
+                <mods:recordIdentifier source="{source}"><xsl:value-of select="hrid"/></mods:recordIdentifier>
                 <mods:recordIdentifier source="uuid"><xsl:value-of select="id"/></mods:recordIdentifier>
             </mods:recordInfo>
         </mods:mods>
@@ -40,10 +40,24 @@
     <xsl:template match="publication" mode="instance">
         <mods:originInfo>
             <mods:publisher><xsl:value-of select="publisher"/></mods:publisher>
-            <mods:dateIssued encoding="w3cdtf" keyDate="yes"><xsl:value-of select="dateOfPublication"/></mods:dateIssued>
+            <mods:dateIssued keyDate="yes"><xsl:value-of select="dateOfPublication"/></mods:dateIssued>
         </mods:originInfo>
     </xsl:template>
+   
+    <xsl:template match="classifications" mode="instance">
+        <xsl:variable name="list">
+          <row><uuid>ce176ace-a53e-4b4d-aa89-725ed7b2edac</uuid><name>lcc</name></row>
+          <row><uuid>42471af9-7d25-4f3a-bf78-60d29dcf463b</uuid><name>ddc</name></row>
+        </xsl:variable>
+        <mods:classification authority="{$list/row[uuid=current()/classificationTypeId]/name}"><xsl:value-of select="classificationNumber"/></mods:classification>
+    </xsl:template>
     
+    <xsl:template match="subjects"  mode="instance">
+        <mods:subject>
+            <mods:topic><xsl:value-of select="value"/></mods:topic>
+        </mods:subject>
+    </xsl:template>
+   
     <xsl:template match="bareHoldingsItems" mode="holdings"> <!-- mapping each item of all holdings on mods:copyInformation -->
         <mods:copyInformation>
             <xsl:apply-templates select="materialType" mode="item"/>

@@ -52,7 +52,7 @@
    </mods:name>
    <mods:originInfo>
       <mods:publisher>Waterbearer Films</mods:publisher>
-      <mods:dateIssued encoding="w3cdtf" keyDate="yes">c1997</mods:dateIssued>
+      <mods:dateIssued keyDate="yes">c1997</mods:dateIssued>
    </mods:originInfo>
    <mods:titleInfo>
       <mods:title>Das zweite Erwachen der Christa Klages [videorecording] = The second awakening of Christa Klages / Cinéma Esperança ; Filmverlag der Autoren ; eine Produktion der Bioskop-Film München, in Zusammenarbeit mit dem WDR ; Regie, Margarethe von Trotta ; Drehbuch, Margarethe Von Trotta, Luisa Francia ; Kamera, Franz Rath ; Musik, Klaus Doldinger ; Schnitt, Annette Dorn ; Redaktion, Gunther Witte ; producer, Eberhard Junkersdorf.</mods:title>
@@ -70,7 +70,7 @@
       </mods:holdingSimple>
    </mods:location>
    <mods:recordInfo>
-      <mods:recordIdentifier source="hrid"/>
+      <mods:recordIdentifier source=""/>
       <mods:recordIdentifier source="uuid">db8c3ef3-bc47-46a8-8f53-d146a339febf</mods:recordIdentifier>
    </mods:recordInfo>
 </mods:mods>

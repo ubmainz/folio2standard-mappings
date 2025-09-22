@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <mods:classification authority="lcc">M1366.S67</mods:classification>
+   <mods:name>
+      <mods:displayForm>Sosa, Omar</mods:displayForm>
+   </mods:name>
+   <mods:name>
+      <mods:displayForm>Keita, Seckou, 1977-</mods:displayForm>
+   </mods:name>
+   <mods:originInfo>
+      <mods:publisher>Otá Records, </mods:publisher>
+      <mods:dateIssued keyDate="yes">[2017]</mods:dateIssued>
+   </mods:originInfo>
+   <mods:subject>
+      <mods:topic>World music.</mods:topic>
+   </mods:subject>
+   <mods:subject>
+      <mods:topic>Jazz</mods:topic>
+   </mods:subject>
+   <mods:titleInfo>
+      <mods:title>Transparent water</mods:title>
+   </mods:titleInfo>
+   <mods:location>
+      <mods:physicalLocation>Københavns Universitet</mods:physicalLocation>
+      <mods:holdingSimple/>
+   </mods:location>
+   <mods:recordInfo>
+      <mods:recordIdentifier source="FOLIO">inst000000000025</mods:recordIdentifier>
+      <mods:recordIdentifier source="uuid">e54b1f4d-7d05-4b1a-9368-3c36b75d8ac6</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>
