@@ -2,9 +2,6 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:xs="http://www.w3.org/2001/XMLSchema"
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <mods:titleInfo>
-      <mods:title>Frankfurter Allgemeine : Zeitung für Deutschland. Ausgabe D</mods:title>
-   </mods:titleInfo>
    <mods:location>
       <mods:physicalLocation>UB Mainz</mods:physicalLocation>
       <mods:holdingSimple>
@@ -108,6 +105,11 @@
             <mods:itemIdentifier type="barcode">12153390</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">it00000002886</mods:itemIdentifier>
          </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:location>
+      <mods:physicalLocation>UB Mainz</mods:physicalLocation>
+      <mods:holdingSimple>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
             <mods:subLocation>ZB Magazin</mods:subLocation>
@@ -117,6 +119,11 @@
             <mods:itemIdentifier type="barcode"/>
             <mods:itemIdentifier type="hrid">125194927-1</mods:itemIdentifier>
          </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:location>
+      <mods:physicalLocation>UB Mainz</mods:physicalLocation>
+      <mods:holdingSimple>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
             <mods:subLocation>ZB Magazin</mods:subLocation>
@@ -136,6 +143,11 @@
             <mods:itemIdentifier type="barcode">15918704</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">it00000016637</mods:itemIdentifier>
          </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:location>
+      <mods:physicalLocation>UB Mainz</mods:physicalLocation>
+      <mods:holdingSimple>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
             <mods:subLocation>ZB Magazin</mods:subLocation>
@@ -145,6 +157,11 @@
             <mods:itemIdentifier type="barcode"/>
             <mods:itemIdentifier type="hrid">801203333-1</mods:itemIdentifier>
          </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:location>
+      <mods:physicalLocation>UB Mainz</mods:physicalLocation>
+      <mods:holdingSimple>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
             <mods:subLocation>BB TSK Magazin</mods:subLocation>
@@ -155,6 +172,9 @@
          </mods:copyInformation>
       </mods:holdingSimple>
    </mods:location>
+   <mods:titleInfo>
+      <mods:title>Frankfurter Allgemeine : Zeitung für Deutschland. Ausgabe D</mods:title>
+   </mods:titleInfo>
    <mods:recordInfo>
       <mods:recordIdentifier source=""/>
       <mods:recordIdentifier source="uuid">d7bec709-5821-4c17-9493-f5e86568e8b9</mods:recordIdentifier>

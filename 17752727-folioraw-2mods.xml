@@ -2,9 +2,6 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:xs="http://www.w3.org/2001/XMLSchema"
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <mods:titleInfo>
-      <mods:title>Allgemeine Anatomie und Bewegungssystem / Michael Schünke, Erik Schulte, Udo Schumacher ; Illustrationen von Markus Voll, Karl Wesker</mods:title>
-   </mods:titleInfo>
    <mods:location>
       <mods:physicalLocation>UB Mainz</mods:physicalLocation>
       <mods:holdingSimple>
@@ -28,6 +25,11 @@
             <mods:itemIdentifier type="barcode">17752752</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029614180-5</mods:itemIdentifier>
          </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:location>
+      <mods:physicalLocation>UB Mainz</mods:physicalLocation>
+      <mods:holdingSimple>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
             <mods:subLocation>ZB Lehrbuchsammlung</mods:subLocation>
@@ -118,6 +120,11 @@
             <mods:itemIdentifier type="barcode">16650667</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-18</mods:itemIdentifier>
          </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:location>
+      <mods:physicalLocation>UB Mainz</mods:physicalLocation>
+      <mods:holdingSimple>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
             <mods:subLocation>ZB Lehrbuchsammlung</mods:subLocation>
@@ -210,6 +217,9 @@
          </mods:copyInformation>
       </mods:holdingSimple>
    </mods:location>
+   <mods:titleInfo>
+      <mods:title>Allgemeine Anatomie und Bewegungssystem / Michael Schünke, Erik Schulte, Udo Schumacher ; Illustrationen von Markus Voll, Karl Wesker</mods:title>
+   </mods:titleInfo>
    <mods:recordInfo>
       <mods:recordIdentifier source=""/>
       <mods:recordIdentifier source="uuid">e10d4715-3cd8-4ee0-acee-5f67dbb1d177</mods:recordIdentifier>

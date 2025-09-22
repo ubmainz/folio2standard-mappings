@@ -12,17 +12,27 @@
     <xsl:template match="opt"> <!-- expecting an opt element for the record -->
         <mods:mods>
             <xsl:apply-templates mode="instance"/>
-            <mods:location>
-                <mods:physicalLocation><xsl:value-of select="holdingsRecords2[1]/permanentLocation/institution/name"/></mods:physicalLocation>
-                <mods:holdingSimple>
-                    <xsl:apply-templates select="//bareHoldingsItems" mode="holdings"/>
-                </mods:holdingSimple>
-            </mods:location>
             <mods:recordInfo>
                 <mods:recordIdentifier source="{source}"><xsl:value-of select="hrid"/></mods:recordIdentifier>
                 <mods:recordIdentifier source="uuid"><xsl:value-of select="id"/></mods:recordIdentifier>
             </mods:recordInfo>
         </mods:mods>
+    </xsl:template>
+
+    <xsl:template match="holdingsRecords2" mode="instance">
+        <mods:location>
+            <mods:physicalLocation><xsl:value-of select="permanentLocation/institution/name"/></mods:physicalLocation>
+            <xsl:choose>
+                <xsl:when test="bareHoldingsItems">
+                    <mods:holdingSimple>
+                        <xsl:apply-templates select="bareHoldingsItems" mode="holdings"/>                    
+                    </mods:holdingSimple>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:apply-templates select="callNumber" mode="holdings"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </mods:location>
     </xsl:template>
 
     <xsl:template match="title" mode="instance">
@@ -52,10 +62,18 @@
         <mods:classification authority="{$list/row[uuid=current()/classificationTypeId]/name}"><xsl:value-of select="classificationNumber"/></mods:classification>
     </xsl:template>
     
-    <xsl:template match="subjects"  mode="instance">
+    <xsl:template match="subjects" mode="instance">
         <mods:subject>
             <mods:topic><xsl:value-of select="value"/></mods:topic>
         </mods:subject>
+    </xsl:template>
+   
+    <xsl:template match="callNumber[text()]" mode="holdings">
+        <mods:shelfLocator>
+            <xsl:if test="../callNumberPrefix/text()"><xsl:value-of select="../callNumberPrefix"/><xsl:text> </xsl:text></xsl:if>
+            <xsl:value-of select="."/>
+            <xsl:if test="../callNumberSuffix/text()"><xsl:text> </xsl:text><xsl:value-of select="../callNumberSuffix"/></xsl:if>
+        </mods:shelfLocator>
     </xsl:template>
    
     <xsl:template match="bareHoldingsItems" mode="holdings"> <!-- mapping each item of all holdings on mods:copyInformation -->

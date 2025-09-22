@@ -2,9 +2,6 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
            xmlns:xs="http://www.w3.org/2001/XMLSchema"
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <mods:titleInfo>
-      <mods:title>Gerthsen Physik : mit 92 Tabellen, 109 durchgerechneten Beispielen und 1049 Aufgaben mit vollständigen Lösungswegen ; [die ganze Physik zum 21. Jahrhundert] / Dieter Meschede</mods:title>
-   </mods:titleInfo>
    <mods:location>
       <mods:physicalLocation>UB Mainz</mods:physicalLocation>
       <mods:holdingSimple>
@@ -21,6 +18,9 @@
          </mods:copyInformation>
       </mods:holdingSimple>
    </mods:location>
+   <mods:titleInfo>
+      <mods:title>Gerthsen Physik : mit 92 Tabellen, 109 durchgerechneten Beispielen und 1049 Aufgaben mit vollständigen Lösungswegen ; [die ganze Physik zum 21. Jahrhundert] / Dieter Meschede</mods:title>
+   </mods:titleInfo>
    <mods:recordInfo>
       <mods:recordIdentifier source="">09951009X</mods:recordIdentifier>
       <mods:recordIdentifier source="uuid">c73ea34e-7b39-4e6c-af6b-45a1066f590b</mods:recordIdentifier>
