@@ -13,6 +13,8 @@
         <mods:mods>
             <xsl:apply-templates mode="instance"/>
             <mods:recordInfo>
+                <mods:recordCreationDate encoding="iso8601"><xsl:value-of select="metadata/createdDate"/></mods:recordCreationDate>
+                <mods:recordChangeDate encoding="iso8601"><xsl:value-of select="metadata/updatedDate"/></mods:recordChangeDate>
                 <mods:recordIdentifier source="{source}"><xsl:value-of select="hrid"/></mods:recordIdentifier>
                 <mods:recordIdentifier source="uuid"><xsl:value-of select="id"/></mods:recordIdentifier>
             </mods:recordInfo>
@@ -59,7 +61,12 @@
           <row><uuid>ce176ace-a53e-4b4d-aa89-725ed7b2edac</uuid><name>lcc</name></row>
           <row><uuid>42471af9-7d25-4f3a-bf78-60d29dcf463b</uuid><name>ddc</name></row>
         </xsl:variable>
-        <mods:classification authority="{$list/row[uuid=current()/classificationTypeId]/name}"><xsl:value-of select="classificationNumber"/></mods:classification>
+        <mods:classification>
+            <xsl:if test="$list/row[uuid=current()/classificationTypeId]/name">
+                <xsl:attribute name="authority"><xsl:value-of select="$list/row[uuid=current()/classificationTypeId]/name"/></xsl:attribute>
+            </xsl:if>
+            <xsl:value-of select="classificationNumber"/>
+        </mods:classification>
     </xsl:template>
     
     <xsl:template match="subjects" mode="instance">
@@ -67,6 +74,21 @@
             <mods:topic><xsl:value-of select="value"/></mods:topic>
         </mods:subject>
     </xsl:template>
+   
+    <xsl:template match="identifiers" mode="instance">
+        <xsl:variable name="list">
+            <row><uuid>8261054f-be78-422d-bd51-4ed9f33c3422</uuid><name>isbn</name></row>
+            <row><uuid>913300b2-03ed-469a-8179-c1092c991227</uuid><name>issn</name></row>
+            <row><uuid>ebfd00b6-61d3-4d87-a6d8-810c941176d5</uuid><name>ismn</name></row>
+            <row><uuid>39554f54-d0bb-4f0a-89a4-e422f6136316</uuid><name>doi</name></row>
+        </xsl:variable>
+        <mods:identifier>
+            <xsl:if test="$list/row[uuid=current()/identifierTypeId]/name">
+                <xsl:attribute name="type"><xsl:value-of select="$list/row[uuid=current()/identifierTypeId]/name"/></xsl:attribute>
+            </xsl:if>
+            <xsl:value-of select="value"/>
+        </mods:identifier>
+   </xsl:template>
    
     <xsl:template match="callNumber[text()]" mode="holdings">
         <mods:shelfLocator>

@@ -13,6 +13,11 @@
       <mods:physicalLocation>Københavns Universitet</mods:physicalLocation>
       <mods:shelfLocator>M1366.S67 T73 2017</mods:shelfLocator>
    </mods:location>
+   <mods:identifier>ocn968777846</mods:identifier>
+   <mods:identifier type="isbn">9786316800312</mods:identifier>
+   <mods:identifier type="isbn">6316800312</mods:identifier>
+   <mods:identifier>OTA-1031 Otá Records</mods:identifier>
+   <mods:identifier>(OCoLC)968777846</mods:identifier>
    <mods:originInfo>
       <mods:publisher>Otá Records, </mods:publisher>
       <mods:dateIssued keyDate="yes">[2017]</mods:dateIssued>
@@ -27,6 +32,8 @@
       <mods:title>Transparent water</mods:title>
    </mods:titleInfo>
    <mods:recordInfo>
+      <mods:recordCreationDate encoding="iso8601">2025-09-19T01:54:06.820Z</mods:recordCreationDate>
+      <mods:recordChangeDate encoding="iso8601">2025-09-19T01:54:06.820Z</mods:recordChangeDate>
       <mods:recordIdentifier source="FOLIO">inst000000000025</mods:recordIdentifier>
       <mods:recordIdentifier source="uuid">e54b1f4d-7d05-4b1a-9368-3c36b75d8ac6</mods:recordIdentifier>
    </mods:recordInfo>
