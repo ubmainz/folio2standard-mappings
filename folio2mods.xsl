@@ -57,7 +57,7 @@
     </xsl:template>
    
     <xsl:template match="classifications" mode="instance">
-        <xsl:variable name="list">
+        <xsl:variable name="list"> <!-- covering some of the reference data -->
             <row><uuid>ce176ace-a53e-4b4d-aa89-725ed7b2edac</uuid><display>LCC</display><uri>http://id.loc.gov/vocabulary/classSchemes/lcc</uri></row>
             <row><uuid>42471af9-7d25-4f3a-bf78-60d29dcf463b</uuid><display>DDC</display><uri>http://id.loc.gov/vocabulary/classSchemes/ddc</uri></row>
         </xsl:variable>
@@ -78,7 +78,7 @@
     </xsl:template>
    
     <xsl:template match="identifiers" mode="instance">
-        <xsl:variable name="list">
+        <xsl:variable name="list"> <!-- covering some of the reference data -->
             <row><uuid>8261054f-be78-422d-bd51-4ed9f33c3422</uuid><display>ISBN</display><uri>http://id.loc.gov/vocabulary/identifiers/isbn</uri></row>
             <row><uuid>913300b2-03ed-469a-8179-c1092c991227</uuid><display>ISSN</display><uri>http://id.loc.gov/vocabulary/identifiers/issn</uri></row>
             <row><uuid>ebfd00b6-61d3-4d87-a6d8-810c941176d5</uuid><display>ISMN</display><uri>http://id.loc.gov/vocabulary/identifiers/ismm</uri></row>
