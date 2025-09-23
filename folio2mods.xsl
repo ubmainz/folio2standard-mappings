@@ -58,15 +58,11 @@
    
     <xsl:template match="classifications" mode="instance">
         <xsl:variable name="list"> <!-- covering some of the reference data -->
-            <row><uuid>ce176ace-a53e-4b4d-aa89-725ed7b2edac</uuid><display>LCC</display><uri>http://id.loc.gov/vocabulary/classSchemes/lcc</uri></row>
-            <row><uuid>42471af9-7d25-4f3a-bf78-60d29dcf463b</uuid><display>DDC</display><uri>http://id.loc.gov/vocabulary/classSchemes/ddc</uri></row>
+            <mods:classification authority="ce176ace-a53e-4b4d-aa89-725ed7b2edac" displayLabel="LCC" authorityURI="http://id.loc.gov/vocabulary/classSchemes/lcc"/>
+            <mods:classification authority="42471af9-7d25-4f3a-bf78-60d29dcf463b" displayLabel="DDC" authorityURI="http://id.loc.gov/vocabulary/classSchemes/ddc"/>
         </xsl:variable>
-        <xsl:variable name="here" select="$list/row[uuid=current()/classificationTypeId]"/>
         <mods:classification authority="{classificationTypeId}">
-            <xsl:if test="$here">
-                <xsl:attribute name="displayLabel"><xsl:value-of select="$here/display"/></xsl:attribute>
-                <xsl:attribute name="authorityURI"><xsl:value-of select="$here/uri"/></xsl:attribute>
-            </xsl:if>
+            <xsl:copy-of select="$list/mods:classification[@authority=current()/classificationTypeId]/@*"/>
             <xsl:value-of select="classificationNumber"/>
         </mods:classification>
     </xsl:template>
@@ -79,17 +75,13 @@
    
     <xsl:template match="identifiers" mode="instance">
         <xsl:variable name="list"> <!-- covering some of the reference data -->
-            <row><uuid>8261054f-be78-422d-bd51-4ed9f33c3422</uuid><display>ISBN</display><uri>http://id.loc.gov/vocabulary/identifiers/isbn</uri></row>
-            <row><uuid>913300b2-03ed-469a-8179-c1092c991227</uuid><display>ISSN</display><uri>http://id.loc.gov/vocabulary/identifiers/issn</uri></row>
-            <row><uuid>ebfd00b6-61d3-4d87-a6d8-810c941176d5</uuid><display>ISMN</display><uri>http://id.loc.gov/vocabulary/identifiers/ismm</uri></row>
-            <row><uuid>39554f54-d0bb-4f0a-89a4-e422f6136316</uuid><display>DOI</display><uri>http://id.loc.gov/vocabulary/identifiers/doi</uri></row>
+            <mods:identifier type="8261054f-be78-422d-bd51-4ed9f33c3422" displayLabel="ISBN" typeURI="http://id.loc.gov/vocabulary/identifiers/isbn"/>
+            <mods:identifier type="913300b2-03ed-469a-8179-c1092c991227" displayLabel="ISSN" typeURI="http://id.loc.gov/vocabulary/identifiers/issn"/>
+            <mods:identifier type="ebfd00b6-61d3-4d87-a6d8-810c941176d5" displayLabel="ISMN" typeURI="http://id.loc.gov/vocabulary/identifiers/ismm"/>
+            <mods:identifier type="39554f54-d0bb-4f0a-89a4-e422f6136316" displayLabel="DOI" typeURI="http://id.loc.gov/vocabulary/identifiers/doi"/>
         </xsl:variable>
-        <xsl:variable name="here" select="$list/row[uuid=current()/identifierTypeId]"/>
         <mods:identifier type="{identifierTypeId}">
-            <xsl:if test="$here">
-                <xsl:attribute name="displayLabel"><xsl:value-of select="$here/display"/></xsl:attribute>
-                <xsl:attribute name="typeURI"><xsl:value-of select="$here/uri"/></xsl:attribute>
-            </xsl:if>
+            <xsl:copy-of select="$list/mods:identifier[@type=current()/identifierTypeId]/@*"/>
             <xsl:value-of select="value"/>
         </mods:identifier>
    </xsl:template>
