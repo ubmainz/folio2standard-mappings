@@ -15,8 +15,9 @@
             <mods:recordInfo>
                 <mods:recordCreationDate encoding="iso8601"><xsl:value-of select="metadata/createdDate"/></mods:recordCreationDate>
                 <mods:recordChangeDate encoding="iso8601"><xsl:value-of select="metadata/updatedDate"/></mods:recordChangeDate>
-                <mods:recordIdentifier source="{source}"><xsl:value-of select="hrid"/></mods:recordIdentifier>
+                <xsl:if test="source/text()"><mods:recordIdentifier source="{source}"><xsl:value-of select="hrid"/></mods:recordIdentifier></xsl:if>
                 <mods:recordIdentifier source="uuid"><xsl:value-of select="id"/></mods:recordIdentifier>
+                <mods:recordIdentifier source="hrid"><xsl:value-of select="hrid"/></mods:recordIdentifier>
             </mods:recordInfo>
         </mods:mods>
     </xsl:template>
@@ -37,6 +38,11 @@
                     <xsl:apply-templates select="callNumber" mode="holdings"/>
                 </xsl:otherwise>
             </xsl:choose>
+            <xsl:if test="hrid/text()">
+                <mods:holdingExternal>
+                    <identifier type="hrid"><xsl:value-of select="hrid"/></identifier>
+                </mods:holdingExternal>
+            </xsl:if>
         </mods:location>
     </xsl:template>
 

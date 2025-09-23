@@ -122,8 +122,9 @@
     </permanentLocation>
     <shelvingTitle></shelvingTitle>
     <temporaryLocation></temporaryLocation>
+    <hrid>ho123</hrid>
   </holdingsRecords2>
-  <hrid></hrid>
+  <hrid>in123</hrid>
   <modeOfIssuanceId></modeOfIssuanceId>
   <publication>
     <dateOfPublication>c1997</dateOfPublication>

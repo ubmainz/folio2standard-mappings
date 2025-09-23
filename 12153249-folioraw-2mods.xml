@@ -178,7 +178,7 @@
    <mods:recordInfo>
       <mods:recordCreationDate encoding="iso8601"/>
       <mods:recordChangeDate encoding="iso8601"/>
-      <mods:recordIdentifier source=""/>
       <mods:recordIdentifier source="uuid">d7bec709-5821-4c17-9493-f5e86568e8b9</mods:recordIdentifier>
+      <mods:recordIdentifier source="hrid"/>
    </mods:recordInfo>
 </mods:mods>

@@ -223,7 +223,7 @@
    <mods:recordInfo>
       <mods:recordCreationDate encoding="iso8601"/>
       <mods:recordChangeDate encoding="iso8601"/>
-      <mods:recordIdentifier source=""/>
       <mods:recordIdentifier source="uuid">e10d4715-3cd8-4ee0-acee-5f67dbb1d177</mods:recordIdentifier>
+      <mods:recordIdentifier source="hrid"/>
    </mods:recordInfo>
 </mods:mods>

@@ -3,7 +3,7 @@
            xmlns:xs="http://www.w3.org/2001/XMLSchema"
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <mods:location>
-      <mods:physicalLocation>UB Mainz</mods:physicalLocation>
+      <mods:physicalLocation>UB Mainz, BB MIN</mods:physicalLocation>
       <mods:holdingSimple>
          <mods:copyInformation>
             <mods:form>Druckschrift</mods:form>
@@ -22,7 +22,9 @@
       <mods:title>Gerthsen Physik : mit 92 Tabellen, 109 durchgerechneten Beispielen und 1049 Aufgaben mit vollständigen Lösungswegen ; [die ganze Physik zum 21. Jahrhundert] / Dieter Meschede</mods:title>
    </mods:titleInfo>
    <mods:recordInfo>
-      <mods:recordIdentifier source="">09951009X</mods:recordIdentifier>
+      <mods:recordCreationDate encoding="iso8601"/>
+      <mods:recordChangeDate encoding="iso8601"/>
       <mods:recordIdentifier source="uuid">c73ea34e-7b39-4e6c-af6b-45a1066f590b</mods:recordIdentifier>
+      <mods:recordIdentifier source="hrid">09951009X</mods:recordIdentifier>
    </mods:recordInfo>
 </mods:mods>

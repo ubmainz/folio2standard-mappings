@@ -42,5 +42,6 @@
       <mods:recordChangeDate encoding="iso8601">2025-09-19T01:54:06.820Z</mods:recordChangeDate>
       <mods:recordIdentifier source="FOLIO">inst000000000025</mods:recordIdentifier>
       <mods:recordIdentifier source="uuid">e54b1f4d-7d05-4b1a-9368-3c36b75d8ac6</mods:recordIdentifier>
+      <mods:recordIdentifier source="hrid">inst000000000025</mods:recordIdentifier>
    </mods:recordInfo>
 </mods:mods>
