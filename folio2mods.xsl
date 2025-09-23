@@ -23,7 +23,10 @@
 
     <xsl:template match="holdingsRecords2" mode="instance">
         <mods:location>
-            <mods:physicalLocation><xsl:value-of select="permanentLocation/institution/name"/></mods:physicalLocation>
+            <mods:physicalLocation>
+                <xsl:value-of select="permanentLocation/institution/name"/><xsl:text>, </xsl:text>
+                <xsl:value-of select="permanentLocation/library/name"/>
+            </mods:physicalLocation>
             <xsl:choose>
                 <xsl:when test="bareHoldingsItems">
                     <mods:holdingSimple>

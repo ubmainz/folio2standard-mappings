@@ -3,7 +3,7 @@
            xmlns:xs="http://www.w3.org/2001/XMLSchema"
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <mods:location>
-      <mods:physicalLocation>UB Mainz</mods:physicalLocation>
+      <mods:physicalLocation>UB Mainz, ZB/GFG</mods:physicalLocation>
       <mods:holdingSimple>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -28,7 +28,7 @@
       </mods:holdingSimple>
    </mods:location>
    <mods:location>
-      <mods:physicalLocation>UB Mainz</mods:physicalLocation>
+      <mods:physicalLocation>UB Mainz, ZB/GFG</mods:physicalLocation>
       <mods:holdingSimple>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -123,7 +123,7 @@
       </mods:holdingSimple>
    </mods:location>
    <mods:location>
-      <mods:physicalLocation>UB Mainz</mods:physicalLocation>
+      <mods:physicalLocation>UB Mainz, ZB/GFG</mods:physicalLocation>
       <mods:holdingSimple>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -221,6 +221,8 @@
       <mods:title>Allgemeine Anatomie und Bewegungssystem / Michael Schünke, Erik Schulte, Udo Schumacher ; Illustrationen von Markus Voll, Karl Wesker</mods:title>
    </mods:titleInfo>
    <mods:recordInfo>
+      <mods:recordCreationDate encoding="iso8601"/>
+      <mods:recordChangeDate encoding="iso8601"/>
       <mods:recordIdentifier source=""/>
       <mods:recordIdentifier source="uuid">e10d4715-3cd8-4ee0-acee-5f67dbb1d177</mods:recordIdentifier>
    </mods:recordInfo>
