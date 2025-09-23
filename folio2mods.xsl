@@ -97,6 +97,12 @@
             <xsl:value-of select="value"/>
         </mods:identifier>
    </xsl:template>
+    
+    <xsl:template match="languages" mode="instance">
+        <mods:language>
+            <languageTerm type="code" authority="iso639-2b"><xsl:value-of select="."/></languageTerm> 
+        </mods:language>   
+    </xsl:template>
    
     <xsl:template match="callNumber[text()]" mode="holdings">
         <mods:shelfLocator>
