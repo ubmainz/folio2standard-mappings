@@ -25,6 +25,9 @@
    <mods:identifier type="b5d8cdc4-9441-487c-90cf-0c7ec97728eb">OTA-1031 Otá Records</mods:identifier>
    <mods:identifier type="7e591197-f335-4afb-bc6d-a6d76ca3bace">(OCoLC)968777846</mods:identifier>
    <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text">[Place of publication not identified]: </mods:placeTerm>
+      </mods:place>
       <mods:publisher>Otá Records, </mods:publisher>
       <mods:dateIssued keyDate="yes">[2017]</mods:dateIssued>
    </mods:originInfo>

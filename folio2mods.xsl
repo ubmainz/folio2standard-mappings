@@ -60,6 +60,9 @@
     
     <xsl:template match="publication" mode="instance">
         <mods:originInfo>
+            <mods:place>
+                <mods:placeTerm type="text"><xsl:value-of select="place"/></mods:placeTerm>
+            </mods:place>
             <mods:publisher><xsl:value-of select="publisher"/></mods:publisher>
             <mods:dateIssued keyDate="yes"><xsl:value-of select="dateOfPublication"/></mods:dateIssued>
         </mods:originInfo>
