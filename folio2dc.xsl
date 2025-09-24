@@ -4,6 +4,7 @@
     xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:srw_dc="info:srw/schema/1/dc-schema"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"
     version="1.0">
     
 
@@ -14,12 +15,12 @@
          Marko Knepper, UB Mainz 2025, Apache 2.0 -->
     
     <xsl:template match="opt"> <!-- expecting an opt element for the record -->
-        <oai_dc:dc>
+        <oai_dc:dc  xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+            xmlns:srw_dc="info:srw/schema/1/dc-schema"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
             <xsl:apply-templates mode="instance"/>
-            <!-- 
-            <dc:identifier source="hrid"><xsl:value-of select="hrid"/></dc:identifier>
-            <dc:identifier source="uuid"><xsl:value-of select="id"/></dc:identifier>
-            -->
         </oai_dc:dc>
     </xsl:template>
     
@@ -60,6 +61,14 @@
         </xsl:if>
         <xsl:if test="identifierTypeId='39554f54-d0bb-4f0a-89a4-e422f6136316'">
             <dc:identifier>DOI: <xsl:value-of select="value"/>
+            </dc:identifier>
+        </xsl:if>
+        <xsl:if test="identifierTypeId='439bfbae-75bc-4f74-9fc7-b2a2d47ce3ef'">
+            <dc:identifier>OCLC: <xsl:value-of select="value"/>
+            </dc:identifier>
+        </xsl:if>
+        <xsl:if test="identifierTypeId='7e591197-f335-4afb-bc6d-a6d76ca3bace'">
+            <dc:identifier><xsl:value-of select="value"/>
             </dc:identifier>
         </xsl:if>
     </xsl:template>

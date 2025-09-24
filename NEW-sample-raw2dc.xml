@@ -2,7 +2,8 @@
 <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/"
            xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
            xmlns:srw_dc="info:srw/schema/1/dc-schema"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
    <dc:contributor>Trotta, Margarethe von</dc:contributor>
    <dc:contributor>Engel, Tina, 1950-</dc:contributor>
    <dc:contributor>Reize, Sylvia, 1950-</dc:contributor>
