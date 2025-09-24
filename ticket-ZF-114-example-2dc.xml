@@ -5,22 +5,12 @@
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <dc:contributor>Sosa, Omar</dc:contributor>
    <dc:contributor>Keita, Seckou, 1977-</dc:contributor>
-   <dc:identifier type="5d164f4b-0b15-4e42-ae75-cfcf85318ad9">ocn968777846</dc:identifier>
-   <dc:identifier type="8261054f-be78-422d-bd51-4ed9f33c3422"
-                  displayLabel="ISBN"
-                  typeURI="http://id.loc.gov/vocabulary/identifiers/isbn">9786316800312</dc:identifier>
-   <dc:identifier type="8261054f-be78-422d-bd51-4ed9f33c3422"
-                  displayLabel="ISBN"
-                  typeURI="http://id.loc.gov/vocabulary/identifiers/isbn">6316800312</dc:identifier>
-   <dc:identifier type="b5d8cdc4-9441-487c-90cf-0c7ec97728eb">OTA-1031 Otá Records</dc:identifier>
-   <dc:identifier type="7e591197-f335-4afb-bc6d-a6d76ca3bace">(OCoLC)968777846</dc:identifier>
+   <dc:identifier>ISBN: 9786316800312</dc:identifier>
+   <dc:identifier>ISBN: 6316800312</dc:identifier>
+   <dc:language>und</dc:language>
    <dc:date>[2017]</dc:date>
    <dc:publisher>Otá Records, </dc:publisher>
-   <dc:subject>
-      <dc:topic>World music.</dc:topic>
-   </dc:subject>
-   <dc:subject>
-      <dc:topic>Jazz</dc:topic>
-   </dc:subject>
+   <dc:subject>World music.</dc:subject>
+   <dc:subject>Jazz</dc:subject>
    <dc:title>Transparent water</dc:title>
 </oai_dc:dc>

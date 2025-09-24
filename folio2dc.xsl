@@ -43,22 +43,31 @@
     </xsl:template>
     
     <xsl:template match="subjects" mode="instance">
-        <dc:subject>
-            <dc:topic><xsl:value-of select="value"/></dc:topic>
-        </dc:subject>
+        <dc:subject><xsl:value-of select="value"/></dc:subject>
+    </xsl:template>    
+    <xsl:template match="identifiers" mode="instance">
+        <xsl:if test="identifierTypeId='8261054f-be78-422d-bd51-4ed9f33c3422'">
+            <dc:identifier>ISBN: <xsl:value-of select="value"/>
+            </dc:identifier>
+        </xsl:if>
+        <xsl:if test="identifierTypeId='913300b2-03ed-469a-8179-c1092c991227'">
+            <dc:identifier>ISSN: <xsl:value-of select="value"/>
+            </dc:identifier>
+        </xsl:if>
+        <xsl:if test="identifierTypeId='ebfd00b6-61d3-4d87-a6d8-810c941176d5'">
+            <dc:identifier>ISMN: <xsl:value-of select="value"/>
+            </dc:identifier>
+        </xsl:if>
+        <xsl:if test="identifierTypeId='39554f54-d0bb-4f0a-89a4-e422f6136316'">
+            <dc:identifier>DOI: <xsl:value-of select="value"/>
+            </dc:identifier>
+        </xsl:if>
     </xsl:template>
     
-    <xsl:template match="identifiers" mode="instance">
-        <xsl:variable name="list"> <!-- covering some of the reference data -->
-            <dc:identifier type="8261054f-be78-422d-bd51-4ed9f33c3422" displayLabel="ISBN" typeURI="http://id.loc.gov/vocabulary/identifiers/isbn"/>
-            <dc:identifier type="913300b2-03ed-469a-8179-c1092c991227" displayLabel="ISSN" typeURI="http://id.loc.gov/vocabulary/identifiers/issn"/>
-            <dc:identifier type="ebfd00b6-61d3-4d87-a6d8-810c941176d5" displayLabel="ISMN" typeURI="http://id.loc.gov/vocabulary/identifiers/ismm"/>
-            <dc:identifier type="39554f54-d0bb-4f0a-89a4-e422f6136316" displayLabel="DOI" typeURI="http://id.loc.gov/vocabulary/identifiers/doi"/>
-        </xsl:variable>
-        <dc:identifier type="{identifierTypeId}">
-            <xsl:copy-of select="$list/dc:identifier[@type=current()/identifierTypeId]/@*"/>
-            <xsl:value-of select="value"/>
-        </dc:identifier>
+    <xsl:template match="languages" mode="instance">
+        <dc:language>
+            <xsl:value-of select="."/> 
+        </dc:language>   
     </xsl:template>
     
     <xsl:template match="text()" mode="instance"/>
