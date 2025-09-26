@@ -55,7 +55,7 @@ def fetch_mapping_entries(filenames):
     return mappings
 
 
-def generate_xsl_when_blocks(mappings):
+def generate_xsl_block(mappings):
     blocks = []
     for fid, name in mappings:
         block = f"""  <xsl:if test=".='{fid}'">
@@ -68,7 +68,7 @@ def generate_xsl_when_blocks(mappings):
 if __name__ == "__main__":
     files = list_instance_format_files()
     mapping = fetch_mapping_entries(files)
-    xsl_code = generate_xsl_when_blocks(mapping)
+    xsl_code = generate_xsl_block(mapping)
 
     
     with open(f"generated-mappings/{data_path}.xsl", "w", encoding="utf-8") as f:
