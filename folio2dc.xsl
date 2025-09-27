@@ -28,7 +28,7 @@
     
     <xsl:template match="publication" mode="instance">
         <dc:date>
-            <xsl:value-of select="translate(translate(translate(dateOfPublication, 'c', ''),'[',''),']','')"/>
+            <xsl:value-of select="dateOfPublication"/>
         </dc:date>
         <dc:publisher>
             <xsl:value-of select="publisher"/>
