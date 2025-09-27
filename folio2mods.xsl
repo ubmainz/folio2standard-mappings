@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:mods="http://www.loc.gov/mods/v3"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd"
+    xmlns:mods="http://www.loc.gov/mods/v3"
     version="1.0">
     <xsl:output encoding="UTF-8" method="xml" indent="yes"/>
 
-    <!-- Mapping from FOLIO raw format to mods for the FOLIO Z39.50 server 
+    <!-- Mapping from FOLIO raw format to mods for the FOLIO Z39.50/SRU server 
          Marko Knepper, UB Mainz 2025, Apache 2.0 -->
 
-    <xsl:template match="opt"> <!-- expecting an opt element for the record -->
-        <mods:mods>
+    <xsl:template match="opt|record">
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
             <xsl:apply-templates mode="instance"/>
             <mods:recordInfo>
                 <mods:recordCreationDate encoding="iso8601"><xsl:value-of select="metadata/createdDate"/></mods:recordCreationDate>

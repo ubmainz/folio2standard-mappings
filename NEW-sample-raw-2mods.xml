@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
    <mods:name>
       <mods:displayForm>Trotta, Margarethe von</mods:displayForm>
    </mods:name>
@@ -66,6 +66,9 @@
       </mods:holdingExternal>
    </mods:location>
    <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text"/>
+      </mods:place>
       <mods:publisher>Waterbearer Films</mods:publisher>
       <mods:dateIssued keyDate="yes">c1997</mods:dateIssued>
    </mods:originInfo>

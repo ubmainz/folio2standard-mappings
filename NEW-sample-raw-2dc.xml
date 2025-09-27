@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<srw_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:srw_dc="info:srw/schema/1/dc-schema"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="info:srw/schema/1/dc-schema http://www.loc.gov/standards/sru/recordSchemas/dc-schema.xsd">
+   <dc:contributor>Trotta, Margarethe von</dc:contributor>
+   <dc:contributor>Engel, Tina, 1950-</dc:contributor>
+   <dc:contributor>Reize, Sylvia, 1950-</dc:contributor>
+   <dc:contributor>Thalbach, Katharina, 1954-</dc:contributor>
+   <dc:contributor>Müller-Westernhage, Marius</dc:contributor>
+   <dc:contributor>Schneider, Peter, 1940-</dc:contributor>
+   <dc:contributor>Francia, Luisa</dc:contributor>
+   <dc:contributor>Junkersdorf, Eberhard</dc:contributor>
+   <dc:contributor>Doldinger, Klaus</dc:contributor>
+   <dc:contributor>Dorn, Annette</dc:contributor>
+   <dc:contributor>Witte, Gunther</dc:contributor>
+   <dc:contributor>Water Bearer Films (Firm)</dc:contributor>
+   <dc:contributor>Cinéma Esperançaa (Firm)</dc:contributor>
+   <dc:contributor>Bioskop-Film</dc:contributor>
+   <dc:contributor>Westdeutscher Rundfunk</dc:contributor>
+   <dc:contributor>Filmverlag der Autoren</dc:contributor>
+   <dc:date>1997</dc:date>
+   <dc:publisher>Waterbearer Films</dc:publisher>
+   <dc:title>Das zweite Erwachen der Christa Klages [videorecording] = The second awakening of Christa Klages / Cinéma Esperança ; Filmverlag der Autoren ; eine Produktion der Bioskop-Film München, in Zusammenarbeit mit dem WDR ; Regie, Margarethe von Trotta ; Drehbuch, Margarethe Von Trotta, Luisa Francia ; Kamera, Franz Rath ; Musik, Klaus Doldinger ; Schnitt, Annette Dorn ; Redaktion, Gunther Witte ; producer, Eberhard Junkersdorf.</dc:title>
+</srw_dc:dc>

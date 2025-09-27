@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"      
-    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:srw_dc="info:srw/schema/1/dc-schema"
-    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"
     version="1.0">
-    
-
-    
+      
     <xsl:output encoding="UTF-8" method="xml" indent="yes"/>
     
-    <!-- Mapping from FOLIO raw format to dc for the FOLIO Z39.50 server 
-         Marko Knepper, UB Mainz 2025, Apache 2.0 -->
+    <!-- Mapping from FOLIO raw format to dc for the FOLIO Z39.50/SRU server 
+         Marvin Wirtz, UB Mainz 2025, Apache 2.0 -->
     
-    <xsl:template match="opt"> <!-- expecting an opt element for the record -->
-        <oai_dc:dc  xmlns:dc="http://purl.org/dc/elements/1.1/"
-            xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
-            xmlns:srw_dc="info:srw/schema/1/dc-schema"
-            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-            xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+    <xsl:template match="opt|record">
+        <srw_dc:dc xsi:schemaLocation="info:srw/schema/1/dc-schema http://www.loc.gov/standards/sru/recordSchemas/dc-schema.xsd">
             <xsl:apply-templates mode="instance"/>
-        </oai_dc:dc>
+        </srw_dc:dc>
     </xsl:template>
     
     <xsl:template match="title" mode="instance">

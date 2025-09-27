@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
    <mods:classification authority="ce176ace-a53e-4b4d-aa89-725ed7b2edac"
                         displayLabel="LCC"
                         authorityURI="http://id.loc.gov/vocabulary/classSchemes/lcc">M1366.S67</mods:classification>
@@ -25,7 +25,7 @@
    <mods:identifier type="b5d8cdc4-9441-487c-90cf-0c7ec97728eb">OTA-1031 Otá Records</mods:identifier>
    <mods:identifier type="7e591197-f335-4afb-bc6d-a6d76ca3bace">(OCoLC)968777846</mods:identifier>
    <mods:language>
-      <languageTerm type="code" authority="iso639-2b">und</languageTerm>
+      <mods:languageTerm type="code" authority="iso639-2b">und</mods:languageTerm>
    </mods:language>
    <mods:originInfo>
       <mods:place>
