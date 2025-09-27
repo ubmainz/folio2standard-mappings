@@ -72,8 +72,11 @@
             <mods:classification authority="ce176ace-a53e-4b4d-aa89-725ed7b2edac" displayLabel="LCC" authorityURI="http://id.loc.gov/vocabulary/classSchemes/lcc"/>
             <mods:classification authority="42471af9-7d25-4f3a-bf78-60d29dcf463b" displayLabel="DDC" authorityURI="http://id.loc.gov/vocabulary/classSchemes/ddc"/>
         </xsl:variable>
-        <mods:classification authority="{classificationTypeId}">
+        <mods:classification>
             <xsl:copy-of select="$list/mods:classification[@authority=current()/classificationTypeId]/@*"/>
+            <xsl:if test="not($list/mods:classification[@authority=current()/classificationTypeId])">
+                <xsl:attribute name="authority"><xsl:value-of select="classificationTypeId"/></xsl:attribute>
+            </xsl:if>
             <xsl:value-of select="classificationNumber"/>
         </mods:classification>
     </xsl:template>
