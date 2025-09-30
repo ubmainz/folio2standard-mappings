@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:mods="http://www.loc.gov/mods/v3"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd"
+    xmlns:mods="http://www.loc.gov/mods/v3"
     version="1.0">
     <xsl:output encoding="UTF-8" method="xml" indent="yes"/>
 
-    <!-- Mapping from FOLIO raw format to mods for the FOLIO Z39.50 server 
+    <!-- Mapping from FOLIO raw format to mods for the FOLIO Z39.50/SRU server 
          Marko Knepper, UB Mainz 2025, Apache 2.0 -->
 
-    <xsl:template match="opt"> <!-- expecting an opt element for the record -->
-        <mods:mods>
+    <xsl:template match="opt|record">
+        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
             <xsl:apply-templates mode="instance"/>
             <mods:recordInfo>
                 <mods:recordCreationDate encoding="iso8601"><xsl:value-of select="metadata/createdDate"/></mods:recordCreationDate>
@@ -69,14 +68,23 @@
     </xsl:template>
    
     <xsl:template match="classifications" mode="instance">
-        <xsl:variable name="list"> <!-- covering some of the reference data -->
-            <mods:classification authority="ce176ace-a53e-4b4d-aa89-725ed7b2edac" displayLabel="LCC" authorityURI="http://id.loc.gov/vocabulary/classSchemes/lcc"/>
-            <mods:classification authority="42471af9-7d25-4f3a-bf78-60d29dcf463b" displayLabel="DDC" authorityURI="http://id.loc.gov/vocabulary/classSchemes/ddc"/>
-        </xsl:variable>
-        <mods:classification authority="{classificationTypeId}">
-            <xsl:copy-of select="$list/mods:classification[@authority=current()/classificationTypeId]/@*"/>
-            <xsl:value-of select="classificationNumber"/>
-        </mods:classification>
+        <xsl:choose> <!-- covering some of the reference data -->
+            <xsl:when test="classificationTypeId='ce176ace-a53e-4b4d-aa89-725ed7b2edac'">
+                <mods:classification authority="ce176ace-a53e-4b4d-aa89-725ed7b2edac" displayLabel="LCC" authorityURI="http://id.loc.gov/vocabulary/classSchemes/lcc">
+                    <xsl:value-of select="classificationNumber"/>
+                </mods:classification>
+            </xsl:when>
+            <xsl:when test="classificationTypeId='42471af9-7d25-4f3a-bf78-60d29dcf463b'">
+                <mods:classification authority="42471af9-7d25-4f3a-bf78-60d29dcf463b" displayLabel="DDC" authorityURI="http://id.loc.gov/vocabulary/classSchemes/ddc">
+                    <xsl:value-of select="classificationNumber"/>
+                </mods:classification>
+            </xsl:when>
+            <xsl:otherwise>
+                <mods:classification authority="{classificationNumber}">
+                    <xsl:value-of select="classificationNumber"/>
+                </mods:classification>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
     <xsl:template match="subjects" mode="instance">
@@ -85,18 +93,36 @@
         </mods:subject>
     </xsl:template>
    
+    <!-- covering some of the reference data -->
     <xsl:template match="identifiers" mode="instance">
-        <xsl:variable name="list"> <!-- covering some of the reference data -->
-            <mods:identifier type="8261054f-be78-422d-bd51-4ed9f33c3422" displayLabel="ISBN" typeURI="http://id.loc.gov/vocabulary/identifiers/isbn"/>
-            <mods:identifier type="913300b2-03ed-469a-8179-c1092c991227" displayLabel="ISSN" typeURI="http://id.loc.gov/vocabulary/identifiers/issn"/>
-            <mods:identifier type="ebfd00b6-61d3-4d87-a6d8-810c941176d5" displayLabel="ISMN" typeURI="http://id.loc.gov/vocabulary/identifiers/ismm"/>
-            <mods:identifier type="39554f54-d0bb-4f0a-89a4-e422f6136316" displayLabel="DOI" typeURI="http://id.loc.gov/vocabulary/identifiers/doi"/>
-        </xsl:variable>
-        <mods:identifier type="{identifierTypeId}">
-            <xsl:copy-of select="$list/mods:identifier[@type=current()/identifierTypeId]/@*"/>
-            <xsl:value-of select="value"/>
-        </mods:identifier>
-   </xsl:template>
+        <xsl:choose>
+            <xsl:when test="identifierTypeId='8261054f-be78-422d-bd51-4ed9f33c3422'">
+                <mods:identifier type="8261054f-be78-422d-bd51-4ed9f33c3422" displayLabel="ISBN" typeURI="http://id.loc.gov/vocabulary/identifiers/isbn">
+                    <xsl:value-of select="value"/>
+                </mods:identifier>
+            </xsl:when>
+            <xsl:when test="identifierTypeId='913300b2-03ed-469a-8179-c1092c991227'">
+                <mods:identifier type="913300b2-03ed-469a-8179-c1092c991227" displayLabel="ISSN" typeURI="http://id.loc.gov/vocabulary/identifiers/issn">
+                    <xsl:value-of select="value"/>
+                </mods:identifier>
+            </xsl:when>
+            <xsl:when test="identifierTypeId='ebfd00b6-61d3-4d87-a6d8-810c941176d5'">
+                <mods:identifier type="ebfd00b6-61d3-4d87-a6d8-810c941176d5" displayLabel="ISMN" typeURI="http://id.loc.gov/vocabulary/identifiers/ismm">
+                    <xsl:value-of select="value"/>
+                </mods:identifier>
+            </xsl:when>
+            <xsl:when test="identifierTypeId='39554f54-d0bb-4f0a-89a4-e422f6136316'">
+                <mods:identifier type="39554f54-d0bb-4f0a-89a4-e422f6136316" displayLabel="DOI" typeURI="http://id.loc.gov/vocabulary/identifiers/doi">
+                    <xsl:value-of select="value"/>
+                </mods:identifier>
+            </xsl:when>
+            <xsl:otherwise>
+                <mods:identifier type="{identifierTypeId}">
+                    <xsl:value-of select="value"/>
+                </mods:identifier>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
     
     <xsl:template match="languages" mode="instance">
         <mods:language>

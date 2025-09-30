@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
-           xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
    <mods:classification authority="ce176ace-a53e-4b4d-aa89-725ed7b2edac"
                         displayLabel="LCC"
                         authorityURI="http://id.loc.gov/vocabulary/classSchemes/lcc">M1366.S67</mods:classification>
