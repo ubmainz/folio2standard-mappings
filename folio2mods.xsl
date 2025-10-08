@@ -389,6 +389,12 @@
             <mods:languageTerm type="code" authority="iso639-2b"><xsl:value-of select="."/></mods:languageTerm> 
         </mods:language>   
     </xsl:template>
+    
+    <xsl:template match="notes" mode="instance">
+        <xsl:if test="staffOnly=0">
+            <mods:note><xsl:value-of select="note"/></mods:note>
+        </xsl:if>
+    </xsl:template>
    
     <xsl:template match="callNumber[text()]" mode="holdings">
         <mods:shelfLocator>

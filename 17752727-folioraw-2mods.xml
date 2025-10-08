@@ -463,6 +463,8 @@
    <mods:language>
       <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
    </mods:language>
+   <mods:note>Auf dem Umschlag: Plus Online-Version in der eRef</mods:note>
+   <mods:note>Literaturverzeichnis: Seite 579-580</mods:note>
    <mods:originInfo>
       <mods:place>
          <mods:placeTerm type="text"/>
