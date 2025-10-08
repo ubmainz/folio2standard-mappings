@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+   <mods:name>
+      <mods:displayForm>Ipeko-Etomane, Faustin-Albert</mods:displayForm>
+   </mods:name>
+   <mods:location>
+      <mods:physicalLocation>UB Mainz, BB ReWi</mods:physicalLocation>
+      <mods:holdingSimple>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>Ethnologie</mods:subLocation>
+            <mods:shelfLocator>JG4 005 002</mods:shelfLocator>
+            <mods:note type="Standort (8201)">ReWi / Jahn-Bibliothek für Afrikanische Literaturen</mods:note>
+            <mods:note type="Letzte Änderung CBS">25.10.18 16:38</mods:note>
+            <mods:itemIdentifier type="barcode">16325033</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">749339160-1</mods:itemIdentifier>
+         </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:identifier type="1d5cb40c-508f-451b-8952-87c92be4255a">025340999</mods:identifier>
+   <mods:identifier type="439bfbae-75bc-4f74-9fc7-b2a2d47ce3ef">180560672</mods:identifier>
+   <mods:identifier type="8e33c1be-e2c4-43ac-a975-8fb50f71137a">HEB: 025340999</mods:identifier>
+   <mods:language>
+      <mods:languageTerm type="code" authority="iso639-2b">fre</mods:languageTerm>
+   </mods:language>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text"/>
+      </mods:place>
+      <mods:publisher>Ed. Clé</mods:publisher>
+      <mods:dateIssued keyDate="yes">[circa 1970]</mods:dateIssued>
+   </mods:originInfo>
+   <mods:titleInfo>
+      <mods:title>L 'ombre des interdits | Le téléphone / de Faustin-Albert Ipeko-Etomane</mods:title>
+   </mods:titleInfo>
+   <mods:recordInfo>
+      <mods:recordCreationDate encoding="iso8601">2024-02-17T21:41:52.761+00:00</mods:recordCreationDate>
+      <mods:recordChangeDate encoding="iso8601">2024-07-05T12:26:33.431+00:00</mods:recordChangeDate>
+      <mods:recordIdentifier source="hebis">025340999</mods:recordIdentifier>
+      <mods:recordIdentifier source="uuid">2a428c55-7e33-4bed-9373-a8b3e378b0cf</mods:recordIdentifier>
+      <mods:recordIdentifier source="hrid">025340999</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>

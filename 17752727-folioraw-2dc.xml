@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<srw_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:srw_dc="info:srw/schema/1/dc-schema"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="info:srw/schema/1/dc-schema http://www.loc.gov/standards/sru/recordSchemas/dc-schema.xsd">
+   <dc:contributor>Schünke, Michael *1950-*</dc:contributor>
+   <dc:contributor>Schulte, Erik *1956-*</dc:contributor>
+   <dc:contributor>Schumacher, Udo *1956-*</dc:contributor>
+   <dc:contributor>Voll, Markus *1961-*</dc:contributor>
+   <dc:contributor>Wesker, Karl *1953-*</dc:contributor>
+   <dc:identifier>433451351</dc:identifier>
+   <dc:identifier>OCLC: 1055476362</dc:identifier>
+   <dc:identifier>ISBN: 9783132420830</dc:identifier>
+   <dc:identifier>9783132420847 (PDF)</dc:identifier>
+   <dc:identifier>9783132420854 (epub)</dc:identifier>
+   <dc:identifier>HEB: 433451351</dc:identifier>
+   <dc:format>unmediated -- volume</dc:format>
+   <dc:format>text</dc:format>
+   <dc:language>ger</dc:language>
+   <dc:date>[2018]</dc:date>
+   <dc:publisher>Georg Thieme Verlag</dc:publisher>
+   <dc:title>Allgemeine Anatomie und Bewegungssystem / Michael Schünke, Erik Schulte, Udo Schumacher ; Illustrationen von Markus Voll, Karl Wesker</dc:title>
+</srw_dc:dc>

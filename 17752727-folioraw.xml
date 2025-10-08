@@ -1,9 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opt>
-  <id>e10d4715-3cd8-4ee0-acee-5f67dbb1d177</id>
+  <id>51503b1d-2616-492a-99d0-b0b249d719c9</id>
+  <administrativeNotes>AFu (Bibliografische Gattung)</administrativeNotes>
+  <administrativeNotes>16.02.23, 09:06 (Letzte Änderung CBS)</administrativeNotes>
+  <contributors>
+    <name>Schünke, Michael *1950-*</name>
+    <authorityId/>
+    <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+    <contributorTypeId>6e09d47d-95e2-4d8a-831b-f777b8ef6d81</contributorTypeId>
+    <contributorTypeText/>
+    <primary>1</primary>
+  </contributors>
+  <contributors>
+    <name>Schulte, Erik *1956-*</name>
+    <authorityId/>
+    <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+    <contributorTypeId>6e09d47d-95e2-4d8a-831b-f777b8ef6d81</contributorTypeId>
+    <contributorTypeText/>
+    <primary/>
+  </contributors>
+  <contributors>
+    <name>Schumacher, Udo *1956-*</name>
+    <authorityId/>
+    <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+    <contributorTypeId>6e09d47d-95e2-4d8a-831b-f777b8ef6d81</contributorTypeId>
+    <contributorTypeText/>
+    <primary/>
+  </contributors>
+  <contributors>
+    <name>Voll, Markus *1961-*</name>
+    <authorityId/>
+    <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+    <contributorTypeId>3add6049-0b63-4fec-9892-e3867e7358e2</contributorTypeId>
+    <contributorTypeText/>
+    <primary/>
+  </contributors>
+  <contributors>
+    <name>Wesker, Karl *1953-*</name>
+    <authorityId/>
+    <contributorNameTypeId>2b94c631-fca9-4892-a730-03ee529ffe2a</contributorNameTypeId>
+    <contributorTypeId>3add6049-0b63-4fec-9892-e3867e7358e2</contributorTypeId>
+    <contributorTypeText/>
+    <primary/>
+  </contributors>
+  <dates/>
+  <discoverySuppress>0</discoverySuppress>
   <holdingsRecords2>
     <bareHoldingsItems>
-      <id>1dce74af-749f-4451-899f-97a9f0b27b57</id>
+      <id>7c20cfc8-8763-42a7-a478-29a0da199fda</id>
       <accessionNumber/>
       <barcode>17752685</barcode>
       <chronology/>
@@ -29,7 +73,7 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>6143f4ce-ee44-4a84-b3fa-8630d499b745</id>
+      <id>30e69a1c-3dc3-4360-84cf-fa2e2fd6f342</id>
       <accessionNumber/>
       <barcode>17752752</barcode>
       <chronology/>
@@ -84,7 +128,7 @@
   </holdingsRecords2>
   <holdingsRecords2>
     <bareHoldingsItems>
-      <id>759c1617-7315-4f9b-8079-be7c4fefd846</id>
+      <id>c43a4e86-411c-4642-9b2b-348bea9fdb98</id>
       <accessionNumber/>
       <barcode>16650643</barcode>
       <chronology/>
@@ -110,7 +154,59 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>705203ab-cc83-43f2-ac18-efd3cb564f7c</id>
+      <id>b53aceba-6518-4522-869e-680c1e23f5ff</id>
+      <accessionNumber/>
+      <barcode>16650692</barcode>
+      <chronology/>
+      <copyNumber>2</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-2</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>f75c8b6d-e552-4417-bc32-5f87344213a6</id>
+      <accessionNumber/>
+      <barcode>16650680</barcode>
+      <chronology/>
+      <copyNumber>3</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-3</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>60bcae30-6f17-4f22-88c3-753d8fef5528</id>
       <accessionNumber/>
       <barcode>16650813</barcode>
       <chronology/>
@@ -136,7 +232,7 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>a186d54f-f896-43f7-ba91-d7cebe403bd5</id>
+      <id>9905b050-7648-4950-8c4f-1d044f7ed2a3</id>
       <accessionNumber/>
       <barcode>16650801</barcode>
       <chronology/>
@@ -162,7 +258,33 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>a81b01e5-3627-4513-a03e-2a4d6d7a2173</id>
+      <id>3871b9cc-41ec-4ed6-81d2-50b734b435a3</id>
+      <accessionNumber/>
+      <barcode>16650606</barcode>
+      <chronology/>
+      <copyNumber>6</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-6</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>3ca632e6-08a6-44b3-9c5c-2c69de9ae5e6</id>
       <accessionNumber/>
       <barcode>16650618</barcode>
       <chronology/>
@@ -182,13 +304,39 @@
       </materialType>
       <permanentLocation/>
       <status>
-        <name>Checked out</name>
+        <name>Available</name>
       </status>
       <temporaryLocation/>
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>8387e50f-6318-4694-815f-e223cafdd500</id>
+      <id>0e479749-25f5-478f-babf-15edd7cb989b</id>
+      <accessionNumber/>
+      <barcode>16650722</barcode>
+      <chronology/>
+      <copyNumber>8</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-8</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>68713737-72f3-4c64-a48e-23185ba9a4eb</id>
       <accessionNumber/>
       <barcode>16650795</barcode>
       <chronology/>
@@ -214,7 +362,7 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>a2fb13f1-8a6f-40a0-86da-4014416f0f80</id>
+      <id>ae0c51a2-dec0-40dc-a346-e0ecd1befccd</id>
       <accessionNumber/>
       <barcode>16650679</barcode>
       <chronology/>
@@ -240,7 +388,59 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>3da2d11e-6fe9-47f3-8be7-cd2accc45dc4</id>
+      <id>74564c83-16b5-42ef-8e69-9fdccd09bf4f</id>
+      <accessionNumber/>
+      <barcode>16650760</barcode>
+      <chronology/>
+      <copyNumber>11</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-11</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>a9a3900d-595b-440e-9e2f-e95402779b0a</id>
+      <accessionNumber/>
+      <barcode>16650771</barcode>
+      <chronology/>
+      <copyNumber>12</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-12</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>46cc9bf8-4133-4fca-9c76-74692caff1bf</id>
       <accessionNumber/>
       <barcode>16650709</barcode>
       <chronology/>
@@ -266,7 +466,7 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>2df1778a-6d7c-4ef9-9fc9-a544ed68a3cf</id>
+      <id>74f77215-c451-48ac-88d2-34d8c1cfc4dc</id>
       <accessionNumber/>
       <barcode>16650655</barcode>
       <chronology/>
@@ -292,7 +492,33 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>b979e0b1-a9f4-4bf1-aa03-fab9eb701391</id>
+      <id>d7a77e0e-1091-4d94-a7f0-5a96d5086edf</id>
+      <accessionNumber/>
+      <barcode>16650710</barcode>
+      <chronology/>
+      <copyNumber>15</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-15</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>861e512e-bde6-4a3c-9637-17e561fea1a1</id>
       <accessionNumber/>
       <barcode>16650746</barcode>
       <chronology/>
@@ -318,7 +544,33 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>6069ae28-bf05-499f-9f0b-5e49ffb1593a</id>
+      <id>22a70ecd-6b3e-4e78-9a3c-93234e9c087d</id>
+      <accessionNumber/>
+      <barcode>16650734</barcode>
+      <chronology/>
+      <copyNumber>17</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-17</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>7e749a9c-24b2-45a0-b4c7-8dabf766c526</id>
       <accessionNumber/>
       <barcode>16650667</barcode>
       <chronology/>
@@ -332,6 +584,318 @@
       </effectiveCallNumberComponents>
       <enumeration/>
       <hrid>1029616531-18</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>12a9680a-a7ad-41e3-b1e5-79b49461f449</id>
+      <accessionNumber/>
+      <barcode>16650783</barcode>
+      <chronology/>
+      <copyNumber>19</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-19</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>cf230ca9-0c13-4669-b1e4-335dcfedd96b</id>
+      <accessionNumber/>
+      <barcode>16650620</barcode>
+      <chronology/>
+      <copyNumber>20</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-20</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>6c112500-d72f-4285-88ec-08e2a1fcb18c</id>
+      <accessionNumber/>
+      <barcode>16650758</barcode>
+      <chronology/>
+      <copyNumber>21</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-21</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>74dac2fb-7029-4473-a19a-230fde95576f</id>
+      <accessionNumber/>
+      <barcode>16650825</barcode>
+      <chronology/>
+      <copyNumber>22</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-22</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>e4310f9b-a54b-46b4-afff-5d5d832fd168</id>
+      <accessionNumber/>
+      <barcode>16650837</barcode>
+      <chronology/>
+      <copyNumber>23</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-23</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>2d83deff-4c59-40fd-bcb2-2cf7a33e9c04</id>
+      <accessionNumber/>
+      <barcode>16650849</barcode>
+      <chronology/>
+      <copyNumber>24</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-24</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>e1b8792e-bfc9-4430-9179-68a853b96771</id>
+      <accessionNumber/>
+      <barcode>16650916</barcode>
+      <chronology/>
+      <copyNumber>25</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-25</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>c5ccb807-f499-471f-bc63-9b65e376030b</id>
+      <accessionNumber/>
+      <barcode>16650850</barcode>
+      <chronology/>
+      <copyNumber>26</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-26</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>cabe2222-65cc-44c4-9875-84d6ba40030c</id>
+      <accessionNumber/>
+      <barcode>16650874</barcode>
+      <chronology/>
+      <copyNumber>27</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-27</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>1c599be7-8fbb-4ff1-9c45-ae4e911b317c</id>
+      <accessionNumber/>
+      <barcode>16650631</barcode>
+      <chronology/>
+      <copyNumber>28</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-28</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>fe3b22dc-6020-4e08-92b3-62314cc23745</id>
+      <accessionNumber/>
+      <barcode>16650862</barcode>
+      <chronology/>
+      <copyNumber>29</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-29</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>53371482-90da-44a7-af4a-168cbbc48662</id>
+      <accessionNumber/>
+      <barcode>16650564</barcode>
+      <chronology/>
+      <copyNumber>30</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>1029616531-30</hrid>
       <itemIdentifier/>
       <materialType>
         <name>0 Druckschrift</name>
@@ -367,7 +931,7 @@
   </holdingsRecords2>
   <holdingsRecords2>
     <bareHoldingsItems>
-      <id>a2e65955-a1b2-434b-b171-6df6da5cebda</id>
+      <id>e8e93e40-45f5-4c43-97ce-e2819653d223</id>
       <accessionNumber/>
       <barcode>18685224</barcode>
       <chronology/>
@@ -393,7 +957,33 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>742f755b-392a-425e-ada9-618d1f696736</id>
+      <id>945af37e-a364-4d3c-97d4-b6b6a9f8403c</id>
+      <accessionNumber/>
+      <barcode>18685236</barcode>
+      <chronology/>
+      <copyNumber>32</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>116945660X-32</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>ddab47e9-d8b1-4c3d-8777-e31dabc7fc04</id>
       <accessionNumber/>
       <barcode>18685248</barcode>
       <chronology/>
@@ -419,7 +1009,7 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>5bbafed4-7262-4600-bbe5-fbb8bc71396b</id>
+      <id>2f68bff0-ba4f-4508-9425-9d46beff9a0a</id>
       <accessionNumber/>
       <barcode>18685250</barcode>
       <chronology/>
@@ -445,7 +1035,7 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>af51b4e9-752c-4878-8b22-a3fcdb5d2baf</id>
+      <id>cbba950c-85e4-494a-86bb-58ebf08b75de</id>
       <accessionNumber/>
       <barcode>18685261</barcode>
       <chronology/>
@@ -471,7 +1061,7 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>e51df214-a29e-4628-a15f-0536cbc4962a</id>
+      <id>d3fec92e-d418-477c-914f-0d189464f8a2</id>
       <accessionNumber/>
       <barcode>18685273</barcode>
       <chronology/>
@@ -497,7 +1087,7 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>d5ecab23-b2d1-4055-9067-17b6e60925c0</id>
+      <id>375a4776-ef9e-4143-839e-a593cb48f258</id>
       <accessionNumber/>
       <barcode>18685285</barcode>
       <chronology/>
@@ -523,7 +1113,33 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>9c9fcbe9-6cbe-46c2-9be8-3b54862e93c3</id>
+      <id>d1d2205d-05eb-4b4d-b1da-a659c56a0739</id>
+      <accessionNumber/>
+      <barcode>18685297</barcode>
+      <chronology/>
+      <copyNumber>38</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>116945660X-38</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>e929dcf3-bdc3-4926-a225-a4a951f30b2d</id>
       <accessionNumber/>
       <barcode>18685303</barcode>
       <chronology/>
@@ -549,7 +1165,7 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>30ae0662-e907-4129-883c-b5eae8ce0c06</id>
+      <id>94e6c58b-b895-48b4-8524-8055469150c7</id>
       <accessionNumber/>
       <barcode>18685315</barcode>
       <chronology/>
@@ -575,7 +1191,7 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>3025fc40-6fc3-43d8-8086-68dad2998530</id>
+      <id>a0e23e12-933c-4dea-ae1c-a73c8bd11c47</id>
       <accessionNumber/>
       <barcode>17752727</barcode>
       <chronology/>
@@ -601,7 +1217,7 @@
       <volume/>
     </bareHoldingsItems>
     <bareHoldingsItems>
-      <id>80a3b7e0-e39a-467c-91a4-f7ac15fe7926</id>
+      <id>db23d54e-7b84-48e2-a64a-432e2e84da4c</id>
       <accessionNumber/>
       <barcode>17752790</barcode>
       <chronology/>
@@ -615,6 +1231,58 @@
       </effectiveCallNumberComponents>
       <enumeration/>
       <hrid>116945660X-42</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>a01332aa-7812-4045-8d11-84939ae55d19</id>
+      <accessionNumber/>
+      <barcode>17752739</barcode>
+      <chronology/>
+      <copyNumber>43</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>116945660X-43</hrid>
+      <itemIdentifier/>
+      <materialType>
+        <name>0 Druckschrift</name>
+      </materialType>
+      <permanentLocation/>
+      <status>
+        <name>Available</name>
+      </status>
+      <temporaryLocation/>
+      <volume/>
+    </bareHoldingsItems>
+    <bareHoldingsItems>
+      <id>68895c0a-024a-4a37-b75c-e11630952c58</id>
+      <accessionNumber/>
+      <barcode>17752740</barcode>
+      <chronology/>
+      <copyNumber>44</copyNumber>
+      <descriptionOfPieces/>
+      <discoverySuppress>0</discoverySuppress>
+      <effectiveCallNumberComponents>
+        <callNumber>40B 241,5.Aufl.</callNumber>
+        <prefix/>
+        <suffix/>
+      </effectiveCallNumberComponents>
+      <enumeration/>
+      <hrid>116945660X-44</hrid>
       <itemIdentifier/>
       <materialType>
         <name>0 Druckschrift</name>
@@ -648,6 +1316,65 @@
     <shelvingTitle/>
     <temporaryLocation/>
   </holdingsRecords2>
-  <hrid/>
+  <hrid>433451351</hrid>
+  <identifiers>
+    <identifierTypeId>1d5cb40c-508f-451b-8952-87c92be4255a</identifierTypeId>
+    <value>433451351</value>
+  </identifiers>
+  <identifiers>
+    <identifierTypeId>439bfbae-75bc-4f74-9fc7-b2a2d47ce3ef</identifierTypeId>
+    <value>1055476362</value>
+  </identifiers>
+  <identifiers>
+    <identifierTypeId>8261054f-be78-422d-bd51-4ed9f33c3422</identifierTypeId>
+    <value>9783132420830</value>
+  </identifiers>
+  <identifiers>
+    <identifierTypeId>a9ed691a-8773-4ece-88d1-c9703ab11e44</identifierTypeId>
+    <value>9783132420847 (PDF)</value>
+  </identifiers>
+  <identifiers>
+    <identifierTypeId>a9ed691a-8773-4ece-88d1-c9703ab11e44</identifierTypeId>
+    <value>9783132420854 (epub)</value>
+  </identifiers>
+  <identifiers>
+    <identifierTypeId>8e33c1be-e2c4-43ac-a975-8fb50f71137a</identifierTypeId>
+    <value>HEB: 433451351</value>
+  </identifiers>
+  <indexTitle>Allgemeine Anatomie und Bewegungssystem Michael Schünke Erik Schulte Udo Schumacher Illustrationen von Markus Voll Karl Wesker</indexTitle>
+  <instanceFormatIds>8d511d33-5e85-4c5d-9bce-6e3c9cd0c324</instanceFormatIds>
+  <instanceTypeId>6312d172-f0cf-40f6-b27d-9fa8feaf332f</instanceTypeId>
+  <isBoundWith>0</isBoundWith>
+  <languages>ger</languages>
+  <metadata>
+    <createdByUserId>fcf889a9-fa72-4d03-a562-db3e51285c66</createdByUserId>
+    <createdDate>2023-10-26T09:37:19.662+00:00</createdDate>
+    <updatedByUserId>fcf889a9-fa72-4d03-a562-db3e51285c66</updatedByUserId>
+    <updatedDate>2023-10-26T10:00:46.110+00:00</updatedDate>
+  </metadata>
+  <modeOfIssuanceId>9d18a02f-5897-4c31-9106-c9abb5c7ae8b</modeOfIssuanceId>
+  <notes>
+    <note>Auf dem Umschlag: Plus Online-Version in der eRef</note>
+    <staffOnly>0</staffOnly>
+  </notes>
+  <notes>
+    <note>Literaturverzeichnis: Seite 579-580</note>
+    <staffOnly>0</staffOnly>
+  </notes>
+  <publication>
+    <dateOfPublication>[2018]</dateOfPublication>
+    <place/>
+    <publisher>Georg Thieme Verlag</publisher>
+  </publication>
+  <series>
+    <authorityId/>
+    <value>Prometheus : LernAtlas der Anatomie / Michael Schünke ; Erik Schulte ; Udo Schumacher. Ill. von Markus Voll ...</value>
+  </series>
+  <shared>0</shared>
+  <source>hebis</source>
+  <staffSuppress>0</staffSuppress>
+  <statusId/>
+  <tags/>
+  <tenantId/>
   <title>Allgemeine Anatomie und Bewegungssystem / Michael Schünke, Erik Schulte, Udo Schumacher ; Illustrationen von Markus Voll, Karl Wesker</title>
 </opt>
