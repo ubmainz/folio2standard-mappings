@@ -22,6 +22,9 @@
    <mods:identifier type="1d5cb40c-508f-451b-8952-87c92be4255a">025340999</mods:identifier>
    <mods:identifier type="439bfbae-75bc-4f74-9fc7-b2a2d47ce3ef">180560672</mods:identifier>
    <mods:identifier type="8e33c1be-e2c4-43ac-a975-8fb50f71137a">HEB: 025340999</mods:identifier>
+   <mods:physicalDescription>
+      <mods:form>unspecified -- unspecified</mods:form>
+   </mods:physicalDescription>
    <mods:genre>unspecified</mods:genre>
    <mods:language>
       <mods:languageTerm type="code" authority="iso639-2b">fre</mods:languageTerm>
