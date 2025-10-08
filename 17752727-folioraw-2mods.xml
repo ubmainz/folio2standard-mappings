@@ -471,6 +471,7 @@
       </mods:place>
       <mods:publisher>Georg Thieme Verlag</mods:publisher>
       <mods:dateIssued keyDate="yes">[2018]</mods:dateIssued>
+      <mods:issuance>single unit</mods:issuance>
    </mods:originInfo>
    <mods:titleInfo>
       <mods:title>Allgemeine Anatomie und Bewegungssystem / Michael Schünke, Erik Schulte, Udo Schumacher ; Illustrationen von Markus Voll, Karl Wesker</mods:title>

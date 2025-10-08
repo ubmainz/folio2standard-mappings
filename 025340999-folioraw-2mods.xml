@@ -35,6 +35,7 @@
       </mods:place>
       <mods:publisher>Ed. Clé</mods:publisher>
       <mods:dateIssued keyDate="yes">[circa 1970]</mods:dateIssued>
+      <mods:issuance>single unit</mods:issuance>
    </mods:originInfo>
    <mods:titleInfo>
       <mods:title>L 'ombre des interdits | Le téléphone / de Faustin-Albert Ipeko-Etomane</mods:title>

@@ -64,6 +64,23 @@
             </mods:place>
             <mods:publisher><xsl:value-of select="publisher"/></mods:publisher>
             <mods:dateIssued keyDate="yes"><xsl:value-of select="dateOfPublication"/></mods:dateIssued>
+            <xsl:choose>
+                <xsl:when test="../modeOfIssuanceId='4fc0f4fe-06fd-490a-a078-c4da1754e03a'">
+                    <mods:issuance>integrating resource</mods:issuance>
+                </xsl:when>
+                <xsl:when test="../modeOfIssuanceId='f5cc2ab6-bb92-4cab-b83f-5a3d09261a41'">
+                    <mods:issuance>multipart monograph</mods:issuance>
+                </xsl:when>
+                <xsl:when test="../modeOfIssuanceId='068b5344-e2a6-40df-9186-1829e13cd344'">
+                    <mods:issuance>serial</mods:issuance>
+                </xsl:when>
+                <xsl:when test="../modeOfIssuanceId='9d18a02f-5897-4c31-9106-c9abb5c7ae8b'">
+                    <mods:issuance>single unit</mods:issuance>
+                </xsl:when>
+                <xsl:when test="../modeOfIssuanceId='612bbd3d-c16b-4bfb-8517-2afafc60204a'">
+                    <mods:issuance>unspecified</mods:issuance>
+                </xsl:when>
+            </xsl:choose>
         </mods:originInfo>
     </xsl:template>
    
