@@ -11,7 +11,10 @@
          Marvin Wirtz, UB Mainz 2025, Apache 2.0 -->
     
     <xsl:template match="opt|record">
-        <srw_dc:dc xsi:schemaLocation="info:srw/schema/1/dc-schema http://www.loc.gov/standards/sru/recordSchemas/dc-schema.xsd">
+        <srw_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"      
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:srw_dc="info:srw/schema/1/dc-schema" 
+            xsi:schemaLocation="info:srw/schema/1/dc-schema http://www.loc.gov/standards/sru/recordSchemas/dc-schema.xsd">
             <xsl:apply-templates mode="instance"/>
         </srw_dc:dc>
     </xsl:template>

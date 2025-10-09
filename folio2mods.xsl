@@ -9,7 +9,9 @@
          Marko Knepper, UB Mainz 2025, Apache 2.0 -->
 
     <xsl:template match="opt|record">
-        <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+        <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns:mods="http://www.loc.gov/mods/v3" 
+            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
             <xsl:apply-templates mode="instance"/>
             <mods:recordInfo>
                 <mods:recordCreationDate encoding="iso8601"><xsl:value-of select="metadata/createdDate"/></mods:recordCreationDate>
