@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<srw_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:srw_dc="info:srw/schema/1/dc-schema"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="info:srw/schema/1/dc-schema http://www.loc.gov/standards/sru/recordSchemas/dc-schema.xsd">
+   <dc:identifier>355986272</dc:identifier>
+   <dc:identifier>ISBN: 9783662459775</dc:identifier>
+   <dc:identifier>ISBN: 3662459779</dc:identifier>
+   <dc:identifier>Setnummer: SpringerNature-11777</dc:identifier>
+   <dc:identifier>9783662459768</dc:identifier>
+   <dc:identifier>DOI: 10.1007/978-3-662-45977-5</dc:identifier>
+   <dc:identifier>HEB: 355986272</dc:identifier>
+   <dc:identifier>ZDB-2-SNA</dc:identifier>
+   <dc:format>computer -- online resource</dc:format>
+   <dc:format>text</dc:format>
+   <dc:language>ger</dc:language>
+   <dc:date>2015</dc:date>
+   <dc:publisher>Springer Berlin Heidelberg</dc:publisher>
+   <dc:date>2015</dc:date>
+   <dc:publisher>Springer International Publishing AG</dc:publisher>
+   <dc:title>Gerthsen Physik / von Dieter Meschede</dc:title>
+</srw_dc:dc>

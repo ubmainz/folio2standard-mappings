@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+   <mods:location>
+      <mods:physicalLocation>UB Mainz, Online_</mods:physicalLocation>
+   </mods:location>
+   <mods:identifier type="1d5cb40c-508f-451b-8952-87c92be4255a">355986272</mods:identifier>
+   <mods:identifier type="8261054f-be78-422d-bd51-4ed9f33c3422"
+                    displayLabel="ISBN"
+                    typeURI="http://id.loc.gov/vocabulary/identifiers/isbn">9783662459775</mods:identifier>
+   <mods:identifier type="8261054f-be78-422d-bd51-4ed9f33c3422"
+                    displayLabel="ISBN"
+                    typeURI="http://id.loc.gov/vocabulary/identifiers/isbn">3662459779</mods:identifier>
+   <mods:identifier type="e0f6787d-a556-4d03-9850-e60c5a2baec1">Setnummer: SpringerNature-11777</mods:identifier>
+   <mods:identifier type="d9f789b1-69f2-4992-8b5f-fde5d0c75d59">9783662459768</mods:identifier>
+   <mods:identifier type="39554f54-d0bb-4f0a-89a4-e422f6136316"
+                    displayLabel="DOI"
+                    typeURI="http://id.loc.gov/vocabulary/identifiers/doi">10.1007/978-3-662-45977-5</mods:identifier>
+   <mods:identifier type="8e33c1be-e2c4-43ac-a975-8fb50f71137a">HEB: 355986272</mods:identifier>
+   <mods:identifier type="6966e5f6-efaf-4378-86f1-7863ae1ecc6c">ZDB-2-SNA</mods:identifier>
+   <mods:physicalDescription>
+      <mods:form>computer -- online resource</mods:form>
+   </mods:physicalDescription>
+   <mods:genre>text</mods:genre>
+   <mods:language>
+      <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+   </mods:language>
+   <mods:note>Erscheint auch als Druck-Ausgabe: Meschede, Dieter. Gerthsen Physik. - Berlin, Heidelberg : Springer Berlin Heidelberg, 2015. - ISBN 978-3-662-45976-8</mods:note>
+   <mods:originInfo>
+      <mods:publisher>Springer Berlin Heidelberg</mods:publisher>
+      <mods:dateIssued keyDate="yes">2015</mods:dateIssued>
+      <mods:issuance>single unit</mods:issuance>
+   </mods:originInfo>
+   <mods:originInfo>
+      <mods:publisher>Springer International Publishing AG</mods:publisher>
+      <mods:dateIssued keyDate="yes">2015</mods:dateIssued>
+      <mods:issuance>single unit</mods:issuance>
+   </mods:originInfo>
+   <mods:titleInfo>
+      <mods:title>Gerthsen Physik / von Dieter Meschede</mods:title>
+   </mods:titleInfo>
+   <mods:recordInfo>
+      <mods:recordCreationDate encoding="iso8601">2024-07-07T19:17:57.526+00:00</mods:recordCreationDate>
+      <mods:recordChangeDate encoding="iso8601">2024-11-01T17:22:27.466+00:00</mods:recordChangeDate>
+      <mods:recordIdentifier source="hebis">355986272</mods:recordIdentifier>
+      <mods:recordIdentifier source="uuid">0cbbbd2a-56c5-44f3-818a-adfbdfc2ec6d</mods:recordIdentifier>
+      <mods:recordIdentifier source="hrid">355986272</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>

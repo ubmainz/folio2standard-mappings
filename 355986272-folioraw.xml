@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opt>
+    <id>0cbbbd2a-56c5-44f3-818a-adfbdfc2ec6d</id>
+    <administrativeNotes>Oax (Bibliografische Gattung)</administrativeNotes>
+    <administrativeNotes>01.11.24, 18:19 (Letzte Änderung CBS)</administrativeNotes>
+    <dates/>
+    <discoverySuppress>0</discoverySuppress>
+    <electronicAccess>
+        <linkText/>
+        <materialsSpecification/>
+        <publicNote/>
+        <relationshipId/>
+        <uri>https://doi.org/10.1007/978-3-662-45977-5</uri>
+    </electronicAccess>
+    <holdingsRecords2>
+        <callNumber/>
+        <callNumberPrefix/>
+        <callNumberSuffix/>
+        <copyNumber/>
+        <notes>
+            <holdingsNoteType>
+                <name>Letzte Änderung CBS</name>
+            </holdingsNoteType>
+            <note>16.06.15 18:14</note>
+        </notes>
+        <notes>
+            <holdingsNoteType>
+                <name>Lizenzindikator</name>
+            </holdingsNoteType>
+            <note>V660</note>
+        </notes>
+        <permanentLocation>
+            <name>Online_</name>
+            <institution>
+                <name>UB Mainz</name>
+            </institution>
+            <library>
+                <name>Online_</name>
+            </library>
+        </permanentLocation>
+        <shelvingTitle/>
+        <temporaryLocation/>
+    </holdingsRecords2>
+    <hrid>355986272</hrid>
+    <identifiers>
+        <identifierTypeId>1d5cb40c-508f-451b-8952-87c92be4255a</identifierTypeId>
+        <value>355986272</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>8261054f-be78-422d-bd51-4ed9f33c3422</identifierTypeId>
+        <value>9783662459775</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>8261054f-be78-422d-bd51-4ed9f33c3422</identifierTypeId>
+        <value>3662459779</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>e0f6787d-a556-4d03-9850-e60c5a2baec1</identifierTypeId>
+        <value>Setnummer: SpringerNature-11777</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>d9f789b1-69f2-4992-8b5f-fde5d0c75d59</identifierTypeId>
+        <value>9783662459768</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>39554f54-d0bb-4f0a-89a4-e422f6136316</identifierTypeId>
+        <value>10.1007/978-3-662-45977-5</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>8e33c1be-e2c4-43ac-a975-8fb50f71137a</identifierTypeId>
+        <value>HEB: 355986272</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>6966e5f6-efaf-4378-86f1-7863ae1ecc6c</identifierTypeId>
+        <value>ZDB-2-SNA</value>
+    </identifiers>
+    <indexTitle>Gerthsen Physik von Dieter Meschede</indexTitle>
+    <instanceFormatIds>f5e8210f-7640-459b-a71f-552567f92369</instanceFormatIds>
+    <instanceTypeId>6312d172-f0cf-40f6-b27d-9fa8feaf332f</instanceTypeId>
+    <isBoundWith>0</isBoundWith>
+    <languages>ger</languages>
+    <metadata>
+        <createdByUserId>fcf889a9-fa72-4d03-a562-db3e51285c66</createdByUserId>
+        <createdDate>2024-07-07T19:17:57.526+00:00</createdDate>
+        <updatedByUserId>fcf889a9-fa72-4d03-a562-db3e51285c66</updatedByUserId>
+        <updatedDate>2024-11-01T17:22:27.466+00:00</updatedDate>
+    </metadata>
+    <modeOfIssuanceId>9d18a02f-5897-4c31-9106-c9abb5c7ae8b</modeOfIssuanceId>
+    <notes>
+        <note>Erscheint auch als Druck-Ausgabe: Meschede, Dieter. Gerthsen Physik. - Berlin, Heidelberg : Springer Berlin Heidelberg, 2015. - ISBN 978-3-662-45976-8</note>
+        <staffOnly>0</staffOnly>
+    </notes>
+    <publication>
+        <dateOfPublication>2015</dateOfPublication>
+        <place/>
+        <publisher>Springer Berlin Heidelberg</publisher>
+    </publication>
+    <publication>
+        <dateOfPublication>2015</dateOfPublication>
+        <place/>
+        <publisher>Springer International Publishing AG</publisher>
+    </publication>
+    <series>
+        <authorityId/>
+        <value>Springer-Lehrbuch</value>
+    </series>
+    <shared>0</shared>
+    <source>hebis</source>
+    <staffSuppress>0</staffSuppress>
+    <statusId/>
+    <tags/>
+    <tenantId/>
+    <title>Gerthsen Physik / von Dieter Meschede</title>
+</opt>
