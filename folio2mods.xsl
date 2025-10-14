@@ -469,7 +469,7 @@
         <mods:itemIdentifier type="barcode"><xsl:value-of select="."/></mods:itemIdentifier>
     </xsl:template>
     
-    <xsl:template match="hrid" mode= "item">
+    <xsl:template match="bareHoldingsItems/hrid" mode= "item"> <!-- mode not relyable in libxslt -->
         <mods:itemIdentifier type="hrid"><xsl:value-of select="."/></mods:itemIdentifier>
     </xsl:template>
     
