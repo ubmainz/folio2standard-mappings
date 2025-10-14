@@ -398,12 +398,12 @@
                 </mods:identifier>
             </xsl:when>
             <xsl:when test="identifierTypeId='eb7b2717-f149-4fec-81a3-deefb8f5ee6b'">
-                <mods:identifier type="39554f54-d0bb-4f0a-89a4-e422f6136316" displayLabel="URN" typeURI="http://id.loc.gov/vocabulary/identifiers/urn">
+                <mods:identifier type="eb7b2717-f149-4fec-81a3-deefb8f5ee6b" displayLabel="URN" typeURI="http://id.loc.gov/vocabulary/identifiers/urn">
                     <xsl:value-of select="value"/>
                 </mods:identifier>
             </xsl:when>
             <xsl:when test="identifierTypeId='216b156b-215e-4839-a53e-ade35cb5702a'">
-                <mods:identifier type="39554f54-d0bb-4f0a-89a4-e422f6136316" displayLabel="Handle" typeURI="http://id.loc.gov/vocabulary/identifiers/hdl">
+                <mods:identifier type="216b156b-215e-4839-a53e-ade35cb5702a" displayLabel="Handle" typeURI="http://id.loc.gov/vocabulary/identifiers/hdl">
                     <xsl:value-of select="value"/>
                 </mods:identifier>
             </xsl:when>
