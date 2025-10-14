@@ -466,9 +466,6 @@
    <mods:note>Auf dem Umschlag: Plus Online-Version in der eRef</mods:note>
    <mods:note>Literaturverzeichnis: Seite 579-580</mods:note>
    <mods:originInfo>
-      <mods:place>
-         <mods:placeTerm type="text"/>
-      </mods:place>
       <mods:publisher>Georg Thieme Verlag</mods:publisher>
       <mods:dateIssued keyDate="yes">[2018]</mods:dateIssued>
       <mods:issuance>single unit</mods:issuance>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+   <mods:location>
+      <mods:physicalLocation>UB Mainz, ZB/GFG</mods:physicalLocation>
+      <mods:holdingSimple>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>BC 9605</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">19.02.03 10:37</mods:note>
+            <mods:itemIdentifier type="barcode">37066401</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">180746359-1</mods:itemIdentifier>
+         </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:location>
+      <mods:physicalLocation>UB Mainz, BB Theologie</mods:physicalLocation>
+      <mods:holdingSimple>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>BB Theologie</mods:subLocation>
+            <mods:shelfLocator>G Mz 206</mods:shelfLocator>
+            <mods:note type="Standort (8201)">Katholische Theologie</mods:note>
+            <mods:note type="Letzte Änderung CBS">23.10.24 14:59</mods:note>
+            <mods:itemIdentifier type="barcode">61204478</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">182679284-1</mods:itemIdentifier>
+         </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:identifier type="1d5cb40c-508f-451b-8952-87c92be4255a">109672887</mods:identifier>
+   <mods:identifier type="439bfbae-75bc-4f74-9fc7-b2a2d47ce3ef">66747228</mods:identifier>
+   <mods:identifier type="63fd8fa0-a939-4d1e-869c-6dcc24c9d507">968371140</mods:identifier>
+   <mods:identifier type="217a56e1-5e45-4253-b942-d2199cca183e">03,B36,0582</mods:identifier>
+   <mods:identifier type="8e33c1be-e2c4-43ac-a975-8fb50f71137a">HEB: 109672887</mods:identifier>
+   <mods:physicalDescription>
+      <mods:form>unspecified -- unspecified</mods:form>
+   </mods:physicalDescription>
+   <mods:genre>unspecified</mods:genre>
+   <mods:language>
+      <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
+   </mods:language>
+   <mods:originInfo>
+      <mods:publisher>Erzbischöfliche Diözesan- und Dombibliothek</mods:publisher>
+      <mods:dateIssued keyDate="yes">2002</mods:dateIssued>
+      <mods:issuance>single unit</mods:issuance>
+   </mods:originInfo>
+   <mods:titleInfo>
+      <mods:title>Das Brevier Adalberts von Sachsen in Mainz / Wolfgang Steinmann</mods:title>
+   </mods:titleInfo>
+   <mods:recordInfo>
+      <mods:recordCreationDate encoding="iso8601">2024-02-23T07:55:46.934+00:00</mods:recordCreationDate>
+      <mods:recordChangeDate encoding="iso8601">2024-10-23T12:59:45.706+00:00</mods:recordChangeDate>
+      <mods:recordIdentifier source="hebis">109672887</mods:recordIdentifier>
+      <mods:recordIdentifier source="uuid">4d77fc77-09a0-4664-9731-247bedd7f5dd</mods:recordIdentifier>
+      <mods:recordIdentifier source="hrid">109672887</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>

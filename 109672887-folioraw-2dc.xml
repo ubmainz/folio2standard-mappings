@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<srw_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:srw_dc="info:srw/schema/1/dc-schema"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="info:srw/schema/1/dc-schema http://www.loc.gov/standards/sru/recordSchemas/dc-schema.xsd">
+   <dc:identifier>109672887</dc:identifier>
+   <dc:identifier>OCLC: 66747228</dc:identifier>
+   <dc:identifier>968371140</dc:identifier>
+   <dc:identifier>03,B36,0582</dc:identifier>
+   <dc:identifier>HEB: 109672887</dc:identifier>
+   <dc:format>unspecified -- unspecified</dc:format>
+   <dc:format>unspecified</dc:format>
+   <dc:language>lat</dc:language>
+   <dc:date>2002</dc:date>
+   <dc:publisher>Erzbischöfliche Diözesan- und Dombibliothek</dc:publisher>
+   <dc:title>Das Brevier Adalberts von Sachsen in Mainz / Wolfgang Steinmann</dc:title>
+</srw_dc:dc>
