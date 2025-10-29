@@ -449,7 +449,7 @@
             <xsl:apply-templates select="effectiveCallNumberComponents" mode="item"/>
             <xsl:apply-templates select="../notes" mode="item"/>
             <xsl:apply-templates select="chronology" mode="item"/>
-            <xsl:apply-templates select="barcode|hrid" mode="item"/>
+            <xsl:apply-templates select="barcode|hrid|copyNumber" mode="item"/>
         </mods:copyInformation>
     </xsl:template>
     
@@ -471,6 +471,10 @@
     
     <xsl:template match="bareHoldingsItems/hrid" mode= "item"> <!-- mode not reliable in libxslt -->
         <mods:itemIdentifier type="hrid"><xsl:value-of select="."/></mods:itemIdentifier>
+    </xsl:template>
+    
+    <xsl:template match="copyNumber" mode="item">
+        <mods:itemIdentifier type="copyNumber"><xsl:value-of select="."/></mods:itemIdentifier>
     </xsl:template>
     
     <xsl:template match="materialType" mode="item">
