@@ -448,7 +448,7 @@
             </xsl:choose>
             <xsl:apply-templates select="effectiveCallNumberComponents" mode="item"/>
             <xsl:apply-templates select="../notes" mode="item"/>
-            <xsl:apply-templates select="chronology|copyNumber" mode="item"/>
+            <xsl:apply-templates select="chronology" mode="item"/>
             <xsl:apply-templates select="barcode|hrid" mode="item"/>
         </mods:copyInformation>
     </xsl:template>
@@ -481,7 +481,7 @@
         <mods:note type="{holdingsNoteType/name}"><xsl:value-of select="note"/></mods:note>
     </xsl:template>
 
-    <xsl:template match="chronology[text()]|copyNumber[text()]" mode="item">
+    <xsl:template match="chronology[text()]" mode="item">
         <mods:enumerationAndChronology unitType="1"><xsl:value-of select="."/></mods:enumerationAndChronology>
     </xsl:template>
 
