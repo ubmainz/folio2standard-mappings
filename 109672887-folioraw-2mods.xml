@@ -12,6 +12,7 @@
             <mods:note type="Letzte Änderung CBS">19.02.03 10:37</mods:note>
             <mods:itemIdentifier type="barcode">37066401</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">180746359-1</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">54317a9b-cd3a-4bbe-835b-0e9427493108</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
    </mods:location>
@@ -26,6 +27,7 @@
             <mods:note type="Letzte Änderung CBS">23.10.24 14:59</mods:note>
             <mods:itemIdentifier type="barcode">61204478</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">182679284-1</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">04d5ebb6-2f25-4763-9faf-a0df96c923f0</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
    </mods:location>

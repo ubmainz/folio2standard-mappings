@@ -16,6 +16,7 @@
             <mods:note type="Letzte Änderung CBS">25.10.18 16:38</mods:note>
             <mods:itemIdentifier type="barcode">16325033</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">749339160-1</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">8db55a96-e867-4d57-ad00-eddf107a63d8</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
    </mods:location>

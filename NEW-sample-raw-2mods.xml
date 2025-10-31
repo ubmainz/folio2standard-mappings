@@ -59,6 +59,7 @@
             <mods:shelfLocator>MC VC LU 2836</mods:shelfLocator>
             <mods:itemIdentifier type="barcode">39151006307116</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">834586</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">b70828ae-b8a5-42db-88f3-acaed75049db</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
       <mods:holdingExternal>
@@ -66,9 +67,6 @@
       </mods:holdingExternal>
    </mods:location>
    <mods:originInfo>
-      <mods:place>
-         <mods:placeTerm type="text"/>
-      </mods:place>
       <mods:publisher>Waterbearer Films</mods:publisher>
       <mods:dateIssued keyDate="yes">c1997</mods:dateIssued>
    </mods:originInfo>

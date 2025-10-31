@@ -14,6 +14,7 @@
             <mods:enumerationAndChronology unitType="1">2004,02,10</mods:enumerationAndChronology>
             <mods:itemIdentifier type="barcode">12158892</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">it00000002889</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">433da98f-28ba-4c9e-8f5c-3dcbca0c174c</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -24,6 +25,7 @@
             <mods:enumerationAndChronology unitType="1">2019,06,01</mods:enumerationAndChronology>
             <mods:itemIdentifier type="barcode">18394576</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">it00000002878</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">696128e4-bac3-4ddc-9942-801b61b311e1</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -34,6 +36,7 @@
             <mods:enumerationAndChronology unitType="1">2019,10,01</mods:enumerationAndChronology>
             <mods:itemIdentifier type="barcode">18389430</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">it00000002879</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">5ff51453-eac6-4d0b-bbcc-f5cc3a95697d</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -44,6 +47,7 @@
             <mods:enumerationAndChronology unitType="1">2020,01,02</mods:enumerationAndChronology>
             <mods:itemIdentifier type="barcode">18595752</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">it00000002880</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">fbd728df-0768-40a5-b8c1-aee4a6b13e4b</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -54,6 +58,7 @@
             <mods:enumerationAndChronology unitType="1">2020,05,02</mods:enumerationAndChronology>
             <mods:itemIdentifier type="barcode">18595790</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">it00000002881</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">a6128182-f3ab-437e-87db-60ab4dcf6ab7</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -64,6 +69,7 @@
             <mods:enumerationAndChronology unitType="1">2021,05,03</mods:enumerationAndChronology>
             <mods:itemIdentifier type="barcode">18692290</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">it00000002882</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">e8d3007c-860c-418c-8582-786ca1eecd46</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -74,6 +80,7 @@
             <mods:enumerationAndChronology unitType="1">2005,10,25</mods:enumerationAndChronology>
             <mods:itemIdentifier type="barcode">12153523</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">it00000002883</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">76f0de7f-7a33-4285-82e4-5113d1c33145</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -84,6 +91,7 @@
             <mods:enumerationAndChronology unitType="1">2005,08,20</mods:enumerationAndChronology>
             <mods:itemIdentifier type="barcode">12153249</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">it00000002884</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">ac900965-8c26-4ac5-a8ac-20b7b8333bcd</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -94,6 +102,7 @@
             <mods:enumerationAndChronology unitType="1">2005,05,14</mods:enumerationAndChronology>
             <mods:itemIdentifier type="barcode">12153353</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">it00000002885</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">ba68eddf-f25f-4bf2-a783-83e936e0e463</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -104,6 +113,7 @@
             <mods:enumerationAndChronology unitType="1">2005,02,28</mods:enumerationAndChronology>
             <mods:itemIdentifier type="barcode">12153390</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">it00000002886</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">2a789d3b-6c9c-446b-8b79-f0ed49b9d93a</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
    </mods:location>
@@ -118,6 +128,7 @@
             <mods:note type="Magazinsignatur (nur Zeitschriften) (7110)">RZTG 40</mods:note>
             <mods:itemIdentifier type="barcode"/>
             <mods:itemIdentifier type="hrid">125194927-1</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">40381764-a484-4775-9c36-f64fadc01107</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
    </mods:location>
@@ -132,6 +143,7 @@
             <mods:note type="Lokaler Schlüssel">00249</mods:note>
             <mods:itemIdentifier type="barcode"/>
             <mods:itemIdentifier type="hrid">744426545-1</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">97105bf5-f843-4c9d-98d4-1d657e9ea931</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -142,6 +154,7 @@
             <mods:enumerationAndChronology unitType="1">1949</mods:enumerationAndChronology>
             <mods:itemIdentifier type="barcode">15918704</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">it00000016637</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">f528e682-5d7c-4199-8ec1-d02542111c32</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
    </mods:location>
@@ -156,6 +169,7 @@
             <mods:note type="Letzte Änderung CBS">12.08.24 22:39</mods:note>
             <mods:itemIdentifier type="barcode"/>
             <mods:itemIdentifier type="hrid">801203333-1</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">186eb271-3741-45a9-bee7-0f70ebc2fbda</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
    </mods:location>
@@ -169,6 +183,7 @@
             <mods:note type="Letzte Änderung CBS">12.08.24 22:39</mods:note>
             <mods:itemIdentifier type="barcode"/>
             <mods:itemIdentifier type="hrid">083514821-1</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">4451447e-03a3-4305-a8bc-85bc4c0fafff</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
    </mods:location>

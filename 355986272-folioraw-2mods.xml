@@ -4,6 +4,7 @@
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
    <mods:location>
       <mods:physicalLocation>UB Mainz, Online_</mods:physicalLocation>
+      <mods:shelfLocator/>
    </mods:location>
    <mods:identifier type="1d5cb40c-508f-451b-8952-87c92be4255a">355986272</mods:identifier>
    <mods:identifier type="8261054f-be78-422d-bd51-4ed9f33c3422"
