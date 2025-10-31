@@ -427,10 +427,10 @@
         </xsl:if>
     </xsl:template>
    
-    <xsl:template match="callNumber[text()]" mode="holdings">
+    <xsl:template match="callNumber" mode="holdings">
         <mods:shelfLocator>
             <xsl:if test="../callNumberPrefix/text()"><xsl:value-of select="../callNumberPrefix"/><xsl:text> </xsl:text></xsl:if>
-            <xsl:value-of select="."/>
+                <xsl:value-of select="."/>
             <xsl:if test="../callNumberSuffix/text()"><xsl:text> </xsl:text><xsl:value-of select="../callNumberSuffix"/></xsl:if>
         </mods:shelfLocator>
     </xsl:template>
@@ -459,7 +459,7 @@
     <xsl:template match="effectiveCallNumberComponents" mode="item">
         <mods:shelfLocator>
             <xsl:if test="prefix/text()"><xsl:value-of select="prefix"/><xsl:text> </xsl:text></xsl:if>
-            <xsl:value-of select="callNumber"/>
+               <xsl:value-of select="callNumber"/>
             <xsl:if test="suffix/text()"><xsl:text> </xsl:text><xsl:value-of select="suffix"/></xsl:if>
         </mods:shelfLocator>
     </xsl:template>
