@@ -490,7 +490,7 @@
         <mods:form><xsl:value-of select="name"/></mods:form>
     </xsl:template>
     
-    <xsl:template match="notes" mode="item">
+    <xsl:template match="holdingsRecords2/notes" mode="item">
         <mods:note type="{holdingsNoteType/name}"><xsl:value-of select="note"/></mods:note>
     </xsl:template>
 

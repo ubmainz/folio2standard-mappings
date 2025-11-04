@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opt>
+    <id>00fad5f1-99ad-4df0-a5e2-15b90e06651f</id>
+    <administrativeNotes>Abvc (Bibliografische Gattung)</administrativeNotes>
+    <administrativeNotes>07.01.25, 11:17 (Letzte Änderung CBS)</administrativeNotes>
+    <alternativeTitles>
+        <alternativeTitle> Abweichender Titel: Jahresbericht der Gesellschaft für Pommersche
+            Geschichte, Altertumskunde und Kunst </alternativeTitle>
+        <alternativeTitleTypeId>79ea6d17-8247-4126-aab5-99fbd2ac6dda</alternativeTitleTypeId>
+        <authorityId/>
+    </alternativeTitles>
+    <contributors>
+        <name> Gesellschaft für Pommersche Geschichte, Altertumskunde und Kunst </name>
+        <authorityId/>
+        <contributorNameTypeId>2e48e713-17f3-4c13-a9f8-23845bb210aa</contributorNameTypeId>
+        <contributorTypeId>97082157-5900-4c4c-a6d8-2e6c13f22ef1</contributorTypeId>
+        <contributorTypeText/>
+        <primary/>
+    </contributors>
+    <dates/>
+    <discoverySuppress>0</discoverySuppress>
+    <holdingsRecords2>
+        <bareHoldingsItems>
+            <id>63afe65a-2e5e-41e8-8cc5-e00ad8dc3daa</id>
+            <accessionNumber/>
+            <barcode>12168769</barcode>
+            <chronology>2012 98 </chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000753</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>8199c1e8-5d8a-4882-b196-abfdaa0283f3</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology>1934 36</chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000001849</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Paged</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>FREIE BESTELLUNG</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>28d46f01-25b4-4890-85aa-127a9af5074f</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology>1898 777</chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000001850</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Paged</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>FREIE BESTELLUNG</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>64bce35f-9376-4cc2-ac49-28bf4ac78645</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology>1897 0</chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000001851</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Paged</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>FREIE BESTELLUNG</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>43b31cf0-87a5-4d93-a5b8-adb8b2a8dcf2</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology>2000 333</chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000001852</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Paged</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>FREIE BESTELLUNG</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>8669a554-7bc2-46fa-b8b5-15541f981513</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology/>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>12514248X-1</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Intellectual item</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>N.F.: 1.1897 - 2.1898; 4.1900 - 32.1930; 36.1934 -</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>9dfcc821-aed4-4aa6-9dd6-d31ae1613e27</id>
+            <accessionNumber/>
+            <barcode>18860125</barcode>
+            <chronology>2022 108</chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000548</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>9cc2316c-440c-41e6-9f5b-f6383e933e6b</id>
+            <accessionNumber/>
+            <barcode>38572590</barcode>
+            <chronology>1898 2 </chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000859</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Awaiting pickup</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>fec27146-0b86-430c-b17e-70fef7a74454</id>
+            <accessionNumber/>
+            <barcode>zwergi3</barcode>
+            <chronology>1900 5 </chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000761</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>In transit</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>3822e91b-9755-4b02-9f51-f84b19945c00</id>
+            <accessionNumber/>
+            <barcode>165492578</barcode>
+            <chronology>2015 101 </chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000759</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Awaiting pickup</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>dc539cba-1d96-4da7-a4f7-d18c3b41f9be</id>
+            <accessionNumber/>
+            <barcode>11111111111</barcode>
+            <chronology>2011 97 </chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000871</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>bba017e3-df6d-47cd-a23d-9475f9da9f7a</id>
+            <accessionNumber/>
+            <barcode>1254789545</barcode>
+            <chronology>1899 3 </chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000929</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>c86e5023-be1d-4d73-8dd3-382f8f040204</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology>2016 102 </chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000933</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>FREIE BESTELLUNG</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>33b95316-9b67-4488-8036-8f4b0d33aedc</id>
+            <accessionNumber/>
+            <barcode>898989898999</barcode>
+            <chronology>2014 100</chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000944</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>3d4f4d77-d122-4b40-ba72-fae5366c4863</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology>1987 89 2</chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000946</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>FREIE BESTELLUNG</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>0ca68a36-5254-48ae-aa53-3a6f6ad5b6a6</id>
+            <accessionNumber/>
+            <barcode>12345677</barcode>
+            <chronology>2024 110</chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress/>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000947</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption/>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>929edc69-14cd-42c7-81eb-38599bc61c90</id>
+            <accessionNumber/>
+            <barcode>77777777777</barcode>
+            <chronology>1897 1 </chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000931</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Awaiting pickup</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>fa45096e-5257-440e-9c70-8528a212a70e</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology>2013 99 </chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000937</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>FREIE BESTELLUNG</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>f9477b3f-6097-406a-bd55-d7b99b2d0b29</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology>2013 99 </chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000934</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>FREIE BESTELLUNG</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>573a37a3-fdec-4ab8-9478-d10c74fbf028</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology>2013 99 </chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000935</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>FREIE BESTELLUNG</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>a84d45a3-66af-4c14-bc70-a0b6e7c2f712</id>
+            <accessionNumber/>
+            <barcode>18925910</barcode>
+            <chronology>2023 109</chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000546</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>In transit</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>58cbaeaf-f2c0-444b-89c3-5224cd2012e2</id>
+            <accessionNumber/>
+            <barcode>2222222222</barcode>
+            <chronology>Index 1925/40</chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress/>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000872</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+        </bareHoldingsItems>
+        <callNumber>ZG 779</callNumber>
+        <callNumberPrefix/>
+        <callNumberSuffix/>
+        <copyNumber/>
+        <holdingsStatements>
+            <note/>
+            <staffNote/>
+            <statement>N.F.</statement>
+        </holdingsStatements>
+        <holdingsStatements>
+            <note/>
+            <staffNote/>
+            <statement>1.1897 - 2.1898; 4.1900 - 32.1930; 36.1934 -</statement>
+        </holdingsStatements>
+        <notes>
+            <holdingsNoteType>
+                <name>Letzte Änderung CBS</name>
+            </holdingsNoteType>
+            <note>12.01.24 09:30</note>
+        </notes>
+        <permanentLocation>
+            <name>ZB Magazin</name>
+            <institution>
+                <name>UB Mainz</name>
+            </institution>
+            <library>
+                <name>ZB/GFG</name>
+            </library>
+        </permanentLocation>
+        <shelvingTitle/>
+        <temporaryLocation/>
+    </holdingsRecords2>
+    <holdingsRecords2>
+        <bareHoldingsItems>
+            <id>53d3bda6-0116-4908-9a13-a0c9bdcc6e91</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology/>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 831</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>125142471-1</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Intellectual item</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>- Index zu: 1/46.1902</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>a0e5ef5c-9478-4663-aa02-216ca2fa4db5</id>
+            <accessionNumber/>
+            <barcode>12545444444</barcode>
+            <chronology>Index</chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress/>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 831</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000930</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+        </bareHoldingsItems>
+        <callNumber>ZG 831</callNumber>
+        <callNumberPrefix/>
+        <callNumberSuffix/>
+        <copyNumber/>
+        <holdingsStatements>
+            <note/>
+            <staffNote/>
+            <statement>- Index zu</statement>
+        </holdingsStatements>
+        <holdingsStatements>
+            <note/>
+            <staffNote/>
+            <statement>1/46.1902</statement>
+        </holdingsStatements>
+        <notes>
+            <holdingsNoteType>
+                <name>Letzte Änderung CBS</name>
+            </holdingsNoteType>
+            <note>12.01.24 09:30</note>
+        </notes>
+        <permanentLocation>
+            <name>ZB Magazin</name>
+            <institution>
+                <name>UB Mainz</name>
+            </institution>
+            <library>
+                <name>ZB/GFG</name>
+            </library>
+        </permanentLocation>
+        <shelvingTitle/>
+        <temporaryLocation/>
+    </holdingsRecords2>
+    <holdingsRecords2>
+        <bareHoldingsItems>
+            <id>161a62b5-792d-4d5a-8812-19f6e5d5e4d5</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology/>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>125142498-1</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Intellectual item</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>- Index zu: 27/42.1925/40</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>7b419a5d-8c07-4535-a847-a708684ef1b8</id>
+            <accessionNumber/>
+            <barcode>13467321</barcode>
+            <chronology>2011 97</chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 779</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000950</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>- Index zu: 27/42.1925/40</yearCaption>
+        </bareHoldingsItems>
+        <callNumber>ZG 779</callNumber>
+        <callNumberPrefix/>
+        <callNumberSuffix/>
+        <copyNumber/>
+        <holdingsStatements>
+            <note/>
+            <staffNote/>
+            <statement>- Index zu</statement>
+        </holdingsStatements>
+        <holdingsStatements>
+            <note/>
+            <staffNote/>
+            <statement>27/42.1925/40</statement>
+        </holdingsStatements>
+        <notes>
+            <holdingsNoteType>
+                <name>Letzte Änderung CBS</name>
+            </holdingsNoteType>
+            <note>12.01.24 09:30</note>
+        </notes>
+        <permanentLocation>
+            <name>ZB Magazin</name>
+            <institution>
+                <name>UB Mainz</name>
+            </institution>
+            <library>
+                <name>ZB/GFG</name>
+            </library>
+        </permanentLocation>
+        <shelvingTitle/>
+        <temporaryLocation/>
+    </holdingsRecords2>
+    <holdingsRecords2>
+        <bareHoldingsItems>
+            <id>50580879-a82a-4fd0-a308-8cff1a1557f0</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology/>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 831</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>070019789-1</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Intellectual item</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>21.1866; 25.1874 - 41.1891; 43.1893 - 46.1896</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>85a4eb37-843c-4033-b674-663cb4878619</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology>1930 32 </chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 831</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000817</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>FREIE BESTELLUNG</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>118aa345-94a1-4eab-94a7-c7426eca60e4</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology>43.1893</chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 831</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000948</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>21.1866; 25.1874 - 41.1891; 43.1893 - 46.1896</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>ed512f25-37fd-4e21-abaf-26d9df7fe65c</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology>44.1894</chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 831</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000951</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>21.1866; 25.1874 - 41.1891; 43.1893 - 46.1896</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>64c2d78b-81f5-495b-aca6-efd75a572c99</id>
+            <accessionNumber/>
+            <barcode>14678276</barcode>
+            <chronology>2011 97</chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 831</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000949</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Withdrawn</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>21.1866; 25.1874 - 41.1891; 43.1893 - 46.1896</yearCaption>
+        </bareHoldingsItems>
+        <callNumber>ZG 831</callNumber>
+        <callNumberPrefix/>
+        <callNumberSuffix/>
+        <copyNumber/>
+        <holdingsStatements>
+            <note/>
+            <staffNote/>
+            <statement>21.1866; 25.1874 - 41.1891; 43.1893 - 46.1896</statement>
+        </holdingsStatements>
+        <notes>
+            <holdingsNoteType>
+                <name>Letzte Änderung CBS</name>
+            </holdingsNoteType>
+            <note>26.02.24 10:08</note>
+        </notes>
+        <notes>
+            <holdingsNoteType>
+                <name>Lokaler Schlüssel</name>
+            </holdingsNoteType>
+            <note>BASIS DAIA</note>
+        </notes>
+        <permanentLocation>
+            <name>ZB Magazin</name>
+            <institution>
+                <name>UB Mainz</name>
+            </institution>
+            <library>
+                <name>ZB/GFG</name>
+            </library>
+        </permanentLocation>
+        <shelvingTitle/>
+        <temporaryLocation/>
+    </holdingsRecords2>
+    <holdingsRecords2>
+        <bareHoldingsItems>
+            <id>7f65dd65-4387-4677-bab9-830677239ad2</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology/>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>Pc-Pomm. 5</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>074678310-1</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Intellectual item</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>N.F.: 30.1928; 33.1931 - 38.1936</yearCaption>
+        </bareHoldingsItems>
+        <bareHoldingsItems>
+            <id>5300d7c0-79a0-409c-a3b6-b5ce42bdef7e</id>
+            <accessionNumber/>
+            <barcode>22222222222</barcode>
+            <chronology>1923 30</chronology>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress/>
+            <effectiveCallNumberComponents>
+                <callNumber>Pc-Pomm. 5</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>it00000000932</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Available</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+        </bareHoldingsItems>
+        <callNumber>Pc-Pomm. 5</callNumber>
+        <callNumberPrefix/>
+        <callNumberSuffix/>
+        <copyNumber/>
+        <holdingsStatements>
+            <note/>
+            <staffNote/>
+            <statement>N.F.</statement>
+        </holdingsStatements>
+        <holdingsStatements>
+            <note/>
+            <staffNote/>
+            <statement>30.1928; 33.1931 - 38.1936</statement>
+        </holdingsStatements>
+        <notes>
+            <holdingsNoteType>
+                <name>Standort (8201)</name>
+            </holdingsNoteType>
+            <note>Evangelische Theologie</note>
+        </notes>
+        <notes>
+            <holdingsNoteType>
+                <name>Letzte Änderung CBS</name>
+            </holdingsNoteType>
+            <note>13.09.22 17:29</note>
+        </notes>
+        <permanentLocation>
+            <name>BB Theologie</name>
+            <institution>
+                <name>UB Mainz</name>
+            </institution>
+            <library>
+                <name>BB Theologie</name>
+            </library>
+        </permanentLocation>
+        <shelvingTitle/>
+        <temporaryLocation/>
+    </holdingsRecords2>
+    <holdingsRecords2>
+        <bareHoldingsItems>
+            <id>9097c1a3-ad8c-4352-9ba3-ac7716bc089e</id>
+            <accessionNumber/>
+            <barcode/>
+            <chronology/>
+            <copyNumber/>
+            <descriptionOfPieces/>
+            <discoverySuppress>0</discoverySuppress>
+            <effectiveCallNumberComponents>
+                <callNumber>ZG 831</callNumber>
+                <prefix/>
+                <suffix/>
+            </effectiveCallNumberComponents>
+            <enumeration/>
+            <hrid>125142463-1</hrid>
+            <itemIdentifier/>
+            <materialType>
+                <name>0 Druckschrift</name>
+            </materialType>
+            <permanentLocation/>
+            <status>
+                <name>Intellectual item</name>
+            </status>
+            <temporaryLocation/>
+            <volume/>
+            <yearCaption>- Erg.Bd. zu: 1898</yearCaption>
+        </bareHoldingsItems>
+        <callNumber>ZG 831</callNumber>
+        <callNumberPrefix/>
+        <callNumberSuffix/>
+        <copyNumber/>
+        <holdingsStatements>
+            <note/>
+            <staffNote/>
+            <statement>- Erg.Bd. zu</statement>
+        </holdingsStatements>
+        <holdingsStatements>
+            <note/>
+            <staffNote/>
+            <statement>1898</statement>
+        </holdingsStatements>
+        <notes>
+            <holdingsNoteType>
+                <name>Letzte Änderung CBS</name>
+            </holdingsNoteType>
+            <note>12.01.24 09:30</note>
+        </notes>
+        <permanentLocation>
+            <name>ZB Magazin</name>
+            <institution>
+                <name>UB Mainz</name>
+            </institution>
+            <library>
+                <name>ZB/GFG</name>
+            </library>
+        </permanentLocation>
+        <shelvingTitle/>
+        <temporaryLocation/>
+    </holdingsRecords2>
+    <hrid>047264489</hrid>
+    <identifiers>
+        <identifierTypeId>1d5cb40c-508f-451b-8952-87c92be4255a</identifierTypeId>
+        <value>047264489</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>439bfbae-75bc-4f74-9fc7-b2a2d47ce3ef</identifierTypeId>
+        <value>224478372</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>913300b2-03ed-469a-8179-c1092c991227</identifierTypeId>
+        <value>0067-3099</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>c90b1f32-0ad9-46fc-9bf6-98c79a966844</identifierTypeId>
+        <value>0067-3099</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>24f03461-e76a-49cb-baba-8f5dd505bac4</identifierTypeId>
+        <value>DNB: 540103942</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>217a56e1-5e45-4253-b942-d2199cca183e</identifierTypeId>
+        <value>81,A24,0663</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>7d09e4a5-31c9-43de-9b07-e02cf0e49252</identifierTypeId>
+        <value>202273-4</value>
+    </identifiers>
+    <identifiers>
+        <identifierTypeId>8e33c1be-e2c4-43ac-a975-8fb50f71137a</identifierTypeId>
+        <value>ZDB: 202273-4</value>
+    </identifiers>
+    <indexTitle> Baltische Studien pommersche Jahrbücher für Landesgeschichte zugleich
+        Mitteilungsorgan der Historischen Kommission für Pommern und der Arbeitsgemeinschaft für
+        Pommersche Kirchengeschichte eV hrsg von der Gesellschaft für Pommersche Geschichte
+        Altertumskunde und Kunst eV </indexTitle>
+    <instanceFormatIds>8d511d33-5e85-4c5d-9bce-6e3c9cd0c324</instanceFormatIds>
+    <instanceFormatIds>fc3e32a0-9c85-4454-a42e-39fca788a7dc</instanceFormatIds>
+    <instanceTypeId>6312d172-f0cf-40f6-b27d-9fa8feaf332f</instanceTypeId>
+    <isBoundWith>0</isBoundWith>
+    <languages>ger</languages>
+    <metadata>
+        <createdByUserId>fcf889a9-fa72-4d03-a562-db3e51285c66</createdByUserId>
+        <createdDate>2024-01-09T17:00:21.930+00:00</createdDate>
+        <updatedByUserId>fcf889a9-fa72-4d03-a562-db3e51285c66</updatedByUserId>
+        <updatedDate>2025-01-08T05:53:07.324+00:00</updatedDate>
+    </metadata>
+    <modeOfIssuanceId>068b5344-e2a6-40df-9186-1829e13cd344</modeOfIssuanceId>
+    <natureOfContentTermIds>0abeee3d-8ad2-4b04-92ff-221b4fce1075</natureOfContentTermIds>
+    <notes>
+        <note>1998-1998</note>
+        <staffOnly>0</staffOnly>
+    </notes>
+    <notes>
+        <note> Urh. 1832 - 1940: Gesellschaft für Pommersche Geschichte und Altertumskunde </note>
+        <staffOnly>0</staffOnly>
+    </notes>
+    <notes>
+        <note> Index N.F. 43/89.1955/03 in: Mitteilungen aus dem Genealogischen Archiv Kreplin </note>
+        <staffOnly>0</staffOnly>
+    </notes>
+    <notes>
+        <note> Darin: Pommern. Kommission zur Erhaltung und Erforschung der Denkmäler in der Provinz
+            Pommern. Jahresbericht der Kommission zur Erhaltung und Erforschung der Denkmäler in
+            Pommern </note>
+        <staffOnly>0</staffOnly>
+    </notes>
+    <notes>
+        <note> Darin: Pommern. Kommission zur Erforschung und Erhaltung der Denkmäler in der Provinz
+            Pommern. Jahresbericht über die Tätigkeit der Kommission zur Erforschung und Erhaltung
+            der Denkmäler in der Provinz Pommern </note>
+        <staffOnly>0</staffOnly>
+    </notes>
+    <notes>
+        <note> Supplement Enth. teils: Gesellschaft für Pommersche Geschichte und Altertumskunde.
+            Jahresbericht der Gesellschaft für Pommersche Geschichte und Altertumskunde </note>
+        <staffOnly>0</staffOnly>
+    </notes>
+    <notes>
+        <note>Ersch. jährl.</note>
+        <staffOnly>0</staffOnly>
+    </notes>
+    <publication>
+        <dateOfPublication>1832-</dateOfPublication>
+        <place/>
+        <publisher>Ludwig</publisher>
+    </publication>
+    <publication>
+        <dateOfPublication>1832-</dateOfPublication>
+        <place/>
+        <publisher>Saunier (1832-1940)</publisher>
+    </publication>
+    <publication>
+        <dateOfPublication>1832-</dateOfPublication>
+        <place/>
+        <publisher>v. der Ropp (früher)</publisher>
+    </publication>
+    <publication>
+        <dateOfPublication>1832-</dateOfPublication>
+        <place/>
+        <publisher>Elwert (-2002)</publisher>
+    </publication>
+    <shared>0</shared>
+    <source>hebis</source>
+    <staffSuppress>0</staffSuppress>
+    <statusId/>
+    <tags/>
+    <tenantId/>
+    <title> Baltische Studien : pommersche Jahrbücher für Landesgeschichte ; zugleich
+        Mitteilungsorgan der Historischen Kommission für Pommern und der Arbeitsgemeinschaft für
+        Pommersche Kirchengeschichte e.V. / hrsg. von der Gesellschaft für Pommersche Geschichte,
+        Altertumskunde und Kunst e.V. </title>
+</opt>
