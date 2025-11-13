@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+   <mods:name>
+      <mods:displayForm> Gesellschaft für Pommersche Geschichte, Altertumskunde und Kunst </mods:displayForm>
+   </mods:name>
+   <mods:location>
+      <mods:physicalLocation>UB Mainz, ZB/GFG</mods:physicalLocation>
+      <mods:holdingSimple>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">2012 98 </mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">12168769</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000000753</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">63afe65a-2e5e-41e8-8cc5-e00ad8dc3daa</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">1934 36</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">it00000001849</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">8199c1e8-5d8a-4882-b196-abfdaa0283f3</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">1898 777</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">it00000001850</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">28d46f01-25b4-4890-85aa-127a9af5074f</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">1897 0</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">it00000001851</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">64bce35f-9376-4cc2-ac49-28bf4ac78645</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">2000 333</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">it00000001852</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">43b31cf0-87a5-4d93-a5b8-adb8b2a8dcf2</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">12514248X-1</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">8669a554-7bc2-46fa-b8b5-15541f981513</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">2022 108</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">18860125</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000000548</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">9dfcc821-aed4-4aa6-9dd6-d31ae1613e27</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">1898 2 </mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">38572590</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000000859</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">9cc2316c-440c-41e6-9f5b-f6383e933e6b</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">1900 5 </mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">zwergi3</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000000761</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">fec27146-0b86-430c-b17e-70fef7a74454</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">2015 101 </mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">165492578</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000000759</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">3822e91b-9755-4b02-9f51-f84b19945c00</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">2011 97 </mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">11111111111</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000000871</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">dc539cba-1d96-4da7-a4f7-d18c3b41f9be</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">1899 3 </mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">1254789545</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000000929</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">bba017e3-df6d-47cd-a23d-9475f9da9f7a</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">2016 102 </mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">it00000000933</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">c86e5023-be1d-4d73-8dd3-382f8f040204</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">2014 100</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">898989898999</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000000944</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">33b95316-9b67-4488-8036-8f4b0d33aedc</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">1987 89 2</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">it00000000946</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">3d4f4d77-d122-4b40-ba72-fae5366c4863</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">2024 110</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">12345677</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000000947</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">0ca68a36-5254-48ae-aa53-3a6f6ad5b6a6</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">1897 1 </mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">77777777777</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000000931</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">929edc69-14cd-42c7-81eb-38599bc61c90</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">2013 99 </mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">it00000000937</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">fa45096e-5257-440e-9c70-8528a212a70e</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">2013 99 </mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">it00000000934</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">f9477b3f-6097-406a-bd55-d7b99b2d0b29</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">2013 99 </mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">it00000000935</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">573a37a3-fdec-4ab8-9478-d10c74fbf028</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">2023 109</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">18925910</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000000546</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">a84d45a3-66af-4c14-bc70-a0b6e7c2f712</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">Index 1925/40</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">2222222222</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000000872</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">58cbaeaf-f2c0-444b-89c3-5224cd2012e2</mods:itemIdentifier>
+         </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:location>
+      <mods:physicalLocation>UB Mainz, ZB/GFG</mods:physicalLocation>
+      <mods:holdingSimple>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 831</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">125142471-1</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">53d3bda6-0116-4908-9a13-a0c9bdcc6e91</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 831</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">Index</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">12545444444</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000000930</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">a0e5ef5c-9478-4663-aa02-216ca2fa4db5</mods:itemIdentifier>
+         </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:location>
+      <mods:physicalLocation>UB Mainz, ZB/GFG</mods:physicalLocation>
+      <mods:holdingSimple>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">125142498-1</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">161a62b5-792d-4d5a-8812-19f6e5d5e4d5</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 779</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:enumerationAndChronology unitType="1">2011 97</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">13467321</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000000950</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">7b419a5d-8c07-4535-a847-a708684ef1b8</mods:itemIdentifier>
+         </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:location>
+      <mods:physicalLocation>UB Mainz, ZB/GFG</mods:physicalLocation>
+      <mods:holdingSimple>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 831</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">26.02.24 10:08</mods:note>
+            <mods:note type="Lokaler Schlüssel">BASIS DAIA</mods:note>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">070019789-1</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">50580879-a82a-4fd0-a308-8cff1a1557f0</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 831</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">26.02.24 10:08</mods:note>
+            <mods:note type="Lokaler Schlüssel">BASIS DAIA</mods:note>
+            <mods:enumerationAndChronology unitType="1">1930 32 </mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">it00000000817</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">85a4eb37-843c-4033-b674-663cb4878619</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 831</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">26.02.24 10:08</mods:note>
+            <mods:note type="Lokaler Schlüssel">BASIS DAIA</mods:note>
+            <mods:enumerationAndChronology unitType="1">43.1893</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">it00000000948</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">118aa345-94a1-4eab-94a7-c7426eca60e4</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 831</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">26.02.24 10:08</mods:note>
+            <mods:note type="Lokaler Schlüssel">BASIS DAIA</mods:note>
+            <mods:enumerationAndChronology unitType="1">44.1894</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">it00000000951</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">ed512f25-37fd-4e21-abaf-26d9df7fe65c</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 831</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">26.02.24 10:08</mods:note>
+            <mods:note type="Lokaler Schlüssel">BASIS DAIA</mods:note>
+            <mods:enumerationAndChronology unitType="1">2011 97</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">14678276</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000000949</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">64c2d78b-81f5-495b-aca6-efd75a572c99</mods:itemIdentifier>
+         </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:location>
+      <mods:physicalLocation>UB Mainz, BB Theologie</mods:physicalLocation>
+      <mods:holdingSimple>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>BB Theologie</mods:subLocation>
+            <mods:shelfLocator>Pc-Pomm. 5</mods:shelfLocator>
+            <mods:note type="Standort (8201)">Evangelische Theologie</mods:note>
+            <mods:note type="Letzte Änderung CBS">13.09.22 17:29</mods:note>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">074678310-1</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">7f65dd65-4387-4677-bab9-830677239ad2</mods:itemIdentifier>
+         </mods:copyInformation>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>BB Theologie</mods:subLocation>
+            <mods:shelfLocator>Pc-Pomm. 5</mods:shelfLocator>
+            <mods:note type="Standort (8201)">Evangelische Theologie</mods:note>
+            <mods:note type="Letzte Änderung CBS">13.09.22 17:29</mods:note>
+            <mods:enumerationAndChronology unitType="1">1923 30</mods:enumerationAndChronology>
+            <mods:itemIdentifier type="barcode">22222222222</mods:itemIdentifier>
+            <mods:itemIdentifier type="hrid">it00000000932</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">5300d7c0-79a0-409c-a3b6-b5ce42bdef7e</mods:itemIdentifier>
+         </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:location>
+      <mods:physicalLocation>UB Mainz, ZB/GFG</mods:physicalLocation>
+      <mods:holdingSimple>
+         <mods:copyInformation>
+            <mods:form>0 Druckschrift</mods:form>
+            <mods:subLocation>ZB Magazin</mods:subLocation>
+            <mods:shelfLocator>ZG 831</mods:shelfLocator>
+            <mods:note type="Letzte Änderung CBS">12.01.24 09:30</mods:note>
+            <mods:itemIdentifier type="barcode"/>
+            <mods:itemIdentifier type="hrid">125142463-1</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">9097c1a3-ad8c-4352-9ba3-ac7716bc089e</mods:itemIdentifier>
+         </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:identifier type="1d5cb40c-508f-451b-8952-87c92be4255a">047264489</mods:identifier>
+   <mods:identifier type="439bfbae-75bc-4f74-9fc7-b2a2d47ce3ef">224478372</mods:identifier>
+   <mods:identifier type="913300b2-03ed-469a-8179-c1092c991227"
+                    displayLabel="ISSN"
+                    typeURI="http://id.loc.gov/vocabulary/identifiers/issn">0067-3099</mods:identifier>
+   <mods:identifier type="c90b1f32-0ad9-46fc-9bf6-98c79a966844">0067-3099</mods:identifier>
+   <mods:identifier type="24f03461-e76a-49cb-baba-8f5dd505bac4">DNB: 540103942</mods:identifier>
+   <mods:identifier type="217a56e1-5e45-4253-b942-d2199cca183e">81,A24,0663</mods:identifier>
+   <mods:identifier type="7d09e4a5-31c9-43de-9b07-e02cf0e49252">202273-4</mods:identifier>
+   <mods:identifier type="8e33c1be-e2c4-43ac-a975-8fb50f71137a">ZDB: 202273-4</mods:identifier>
+   <mods:physicalDescription>
+      <mods:form>unmediated -- volume</mods:form>
+   </mods:physicalDescription>
+   <mods:physicalDescription>
+      <mods:form>microform -- microfiche</mods:form>
+   </mods:physicalDescription>
+   <mods:genre>text</mods:genre>
+   <mods:language>
+      <mods:languageTerm type="code" authority="iso639-2b">ger</mods:languageTerm>
+   </mods:language>
+   <mods:note>1998-1998</mods:note>
+   <mods:note> Urh. 1832 - 1940: Gesellschaft für Pommersche Geschichte und Altertumskunde </mods:note>
+   <mods:note> Index N.F. 43/89.1955/03 in: Mitteilungen aus dem Genealogischen Archiv Kreplin </mods:note>
+   <mods:note> Darin: Pommern. Kommission zur Erhaltung und Erforschung der Denkmäler in der Provinz
+            Pommern. Jahresbericht der Kommission zur Erhaltung und Erforschung der Denkmäler in
+            Pommern </mods:note>
+   <mods:note> Darin: Pommern. Kommission zur Erforschung und Erhaltung der Denkmäler in der Provinz
+            Pommern. Jahresbericht über die Tätigkeit der Kommission zur Erforschung und Erhaltung
+            der Denkmäler in der Provinz Pommern </mods:note>
+   <mods:note> Supplement Enth. teils: Gesellschaft für Pommersche Geschichte und Altertumskunde.
+            Jahresbericht der Gesellschaft für Pommersche Geschichte und Altertumskunde </mods:note>
+   <mods:note>Ersch. jährl.</mods:note>
+   <mods:originInfo>
+      <mods:publisher>Ludwig</mods:publisher>
+      <mods:dateIssued keyDate="yes">1832-</mods:dateIssued>
+      <mods:issuance>serial</mods:issuance>
+   </mods:originInfo>
+   <mods:originInfo>
+      <mods:publisher>Saunier (1832-1940)</mods:publisher>
+      <mods:dateIssued keyDate="yes">1832-</mods:dateIssued>
+      <mods:issuance>serial</mods:issuance>
+   </mods:originInfo>
+   <mods:originInfo>
+      <mods:publisher>v. der Ropp (früher)</mods:publisher>
+      <mods:dateIssued keyDate="yes">1832-</mods:dateIssued>
+      <mods:issuance>serial</mods:issuance>
+   </mods:originInfo>
+   <mods:originInfo>
+      <mods:publisher>Elwert (-2002)</mods:publisher>
+      <mods:dateIssued keyDate="yes">1832-</mods:dateIssued>
+      <mods:issuance>serial</mods:issuance>
+   </mods:originInfo>
+   <mods:titleInfo>
+      <mods:title> Baltische Studien : pommersche Jahrbücher für Landesgeschichte ; zugleich
+        Mitteilungsorgan der Historischen Kommission für Pommern und der Arbeitsgemeinschaft für
+        Pommersche Kirchengeschichte e.V. / hrsg. von der Gesellschaft für Pommersche Geschichte,
+        Altertumskunde und Kunst e.V. </mods:title>
+   </mods:titleInfo>
+   <mods:recordInfo>
+      <mods:recordCreationDate encoding="iso8601">2024-01-09T17:00:21.930+00:00</mods:recordCreationDate>
+      <mods:recordChangeDate encoding="iso8601">2025-01-08T05:53:07.324+00:00</mods:recordChangeDate>
+      <mods:recordIdentifier source="hebis">047264489</mods:recordIdentifier>
+      <mods:recordIdentifier source="uuid">00fad5f1-99ad-4df0-a5e2-15b90e06651f</mods:recordIdentifier>
+      <mods:recordIdentifier source="hrid">047264489</mods:recordIdentifier>
+   </mods:recordInfo>
+</mods:mods>

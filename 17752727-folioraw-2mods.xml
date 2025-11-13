@@ -29,6 +29,7 @@
             <mods:itemIdentifier type="barcode">17752685</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">1</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029614180-1</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">7c20cfc8-8763-42a7-a478-29a0da199fda</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -39,6 +40,7 @@
             <mods:itemIdentifier type="barcode">17752752</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">5</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029614180-5</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">30e69a1c-3dc3-4360-84cf-fa2e2fd6f342</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
    </mods:location>
@@ -53,6 +55,7 @@
             <mods:itemIdentifier type="barcode">16650643</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">1</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-1</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">c43a4e86-411c-4642-9b2b-348bea9fdb98</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -62,6 +65,7 @@
             <mods:itemIdentifier type="barcode">16650692</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">2</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-2</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">b53aceba-6518-4522-869e-680c1e23f5ff</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -71,6 +75,7 @@
             <mods:itemIdentifier type="barcode">16650680</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">3</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-3</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">f75c8b6d-e552-4417-bc32-5f87344213a6</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -80,6 +85,7 @@
             <mods:itemIdentifier type="barcode">16650813</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">4</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-4</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">60bcae30-6f17-4f22-88c3-753d8fef5528</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -89,6 +95,7 @@
             <mods:itemIdentifier type="barcode">16650801</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">5</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-5</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">9905b050-7648-4950-8c4f-1d044f7ed2a3</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -98,6 +105,7 @@
             <mods:itemIdentifier type="barcode">16650606</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">6</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-6</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">3871b9cc-41ec-4ed6-81d2-50b734b435a3</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -107,6 +115,7 @@
             <mods:itemIdentifier type="barcode">16650618</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">7</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-7</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">3ca632e6-08a6-44b3-9c5c-2c69de9ae5e6</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -116,6 +125,7 @@
             <mods:itemIdentifier type="barcode">16650722</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">8</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-8</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">0e479749-25f5-478f-babf-15edd7cb989b</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -125,6 +135,7 @@
             <mods:itemIdentifier type="barcode">16650795</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">9</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-9</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">68713737-72f3-4c64-a48e-23185ba9a4eb</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -134,6 +145,7 @@
             <mods:itemIdentifier type="barcode">16650679</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">10</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-10</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">ae0c51a2-dec0-40dc-a346-e0ecd1befccd</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -143,6 +155,7 @@
             <mods:itemIdentifier type="barcode">16650760</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">11</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-11</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">74564c83-16b5-42ef-8e69-9fdccd09bf4f</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -152,6 +165,7 @@
             <mods:itemIdentifier type="barcode">16650771</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">12</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-12</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">a9a3900d-595b-440e-9e2f-e95402779b0a</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -161,6 +175,7 @@
             <mods:itemIdentifier type="barcode">16650709</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">13</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-13</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">46cc9bf8-4133-4fca-9c76-74692caff1bf</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -170,6 +185,7 @@
             <mods:itemIdentifier type="barcode">16650655</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">14</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-14</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">74f77215-c451-48ac-88d2-34d8c1cfc4dc</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -179,6 +195,7 @@
             <mods:itemIdentifier type="barcode">16650710</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">15</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-15</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">d7a77e0e-1091-4d94-a7f0-5a96d5086edf</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -188,6 +205,7 @@
             <mods:itemIdentifier type="barcode">16650746</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">16</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-16</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">861e512e-bde6-4a3c-9637-17e561fea1a1</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -197,6 +215,7 @@
             <mods:itemIdentifier type="barcode">16650734</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">17</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-17</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">22a70ecd-6b3e-4e78-9a3c-93234e9c087d</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -206,6 +225,7 @@
             <mods:itemIdentifier type="barcode">16650667</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">18</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-18</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">7e749a9c-24b2-45a0-b4c7-8dabf766c526</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -215,6 +235,7 @@
             <mods:itemIdentifier type="barcode">16650783</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">19</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-19</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">12a9680a-a7ad-41e3-b1e5-79b49461f449</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -224,6 +245,7 @@
             <mods:itemIdentifier type="barcode">16650620</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">20</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-20</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">cf230ca9-0c13-4669-b1e4-335dcfedd96b</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -233,6 +255,7 @@
             <mods:itemIdentifier type="barcode">16650758</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">21</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-21</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">6c112500-d72f-4285-88ec-08e2a1fcb18c</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -242,6 +265,7 @@
             <mods:itemIdentifier type="barcode">16650825</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">22</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-22</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">74dac2fb-7029-4473-a19a-230fde95576f</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -251,6 +275,7 @@
             <mods:itemIdentifier type="barcode">16650837</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">23</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-23</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">e4310f9b-a54b-46b4-afff-5d5d832fd168</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -260,6 +285,7 @@
             <mods:itemIdentifier type="barcode">16650849</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">24</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-24</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">2d83deff-4c59-40fd-bcb2-2cf7a33e9c04</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -269,6 +295,7 @@
             <mods:itemIdentifier type="barcode">16650916</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">25</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-25</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">e1b8792e-bfc9-4430-9179-68a853b96771</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -278,6 +305,7 @@
             <mods:itemIdentifier type="barcode">16650850</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">26</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-26</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">c5ccb807-f499-471f-bc63-9b65e376030b</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -287,6 +315,7 @@
             <mods:itemIdentifier type="barcode">16650874</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">27</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-27</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">cabe2222-65cc-44c4-9875-84d6ba40030c</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -296,6 +325,7 @@
             <mods:itemIdentifier type="barcode">16650631</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">28</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-28</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">1c599be7-8fbb-4ff1-9c45-ae4e911b317c</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -305,6 +335,7 @@
             <mods:itemIdentifier type="barcode">16650862</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">29</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-29</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">fe3b22dc-6020-4e08-92b3-62314cc23745</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -314,6 +345,7 @@
             <mods:itemIdentifier type="barcode">16650564</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">30</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">1029616531-30</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">53371482-90da-44a7-af4a-168cbbc48662</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
    </mods:location>
@@ -328,6 +360,7 @@
             <mods:itemIdentifier type="barcode">18685224</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">31</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">116945660X-31</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">e8e93e40-45f5-4c43-97ce-e2819653d223</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -337,6 +370,7 @@
             <mods:itemIdentifier type="barcode">18685236</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">32</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">116945660X-32</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">945af37e-a364-4d3c-97d4-b6b6a9f8403c</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -346,6 +380,7 @@
             <mods:itemIdentifier type="barcode">18685248</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">33</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">116945660X-33</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">ddab47e9-d8b1-4c3d-8777-e31dabc7fc04</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -355,6 +390,7 @@
             <mods:itemIdentifier type="barcode">18685250</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">34</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">116945660X-34</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">2f68bff0-ba4f-4508-9425-9d46beff9a0a</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -364,6 +400,7 @@
             <mods:itemIdentifier type="barcode">18685261</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">35</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">116945660X-35</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">cbba950c-85e4-494a-86bb-58ebf08b75de</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -373,6 +410,7 @@
             <mods:itemIdentifier type="barcode">18685273</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">36</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">116945660X-36</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">d3fec92e-d418-477c-914f-0d189464f8a2</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -382,6 +420,7 @@
             <mods:itemIdentifier type="barcode">18685285</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">37</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">116945660X-37</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">375a4776-ef9e-4143-839e-a593cb48f258</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -391,6 +430,7 @@
             <mods:itemIdentifier type="barcode">18685297</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">38</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">116945660X-38</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">d1d2205d-05eb-4b4d-b1da-a659c56a0739</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -400,6 +440,7 @@
             <mods:itemIdentifier type="barcode">18685303</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">39</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">116945660X-39</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">e929dcf3-bdc3-4926-a225-a4a951f30b2d</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -409,6 +450,7 @@
             <mods:itemIdentifier type="barcode">18685315</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">40</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">116945660X-40</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">94e6c58b-b895-48b4-8524-8055469150c7</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -418,6 +460,7 @@
             <mods:itemIdentifier type="barcode">17752727</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">41</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">116945660X-41</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">a0e23e12-933c-4dea-ae1c-a73c8bd11c47</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -427,6 +470,7 @@
             <mods:itemIdentifier type="barcode">17752790</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">42</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">116945660X-42</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">db23d54e-7b84-48e2-a64a-432e2e84da4c</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -436,6 +480,7 @@
             <mods:itemIdentifier type="barcode">17752739</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">43</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">116945660X-43</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">a01332aa-7812-4045-8d11-84939ae55d19</mods:itemIdentifier>
          </mods:copyInformation>
          <mods:copyInformation>
             <mods:form>0 Druckschrift</mods:form>
@@ -445,6 +490,7 @@
             <mods:itemIdentifier type="barcode">17752740</mods:itemIdentifier>
             <mods:itemIdentifier type="copyNumber">44</mods:itemIdentifier>
             <mods:itemIdentifier type="hrid">116945660X-44</mods:itemIdentifier>
+            <mods:itemIdentifier type="uuid">68895c0a-024a-4a37-b75c-e11630952c58</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
    </mods:location>
