@@ -39,12 +39,14 @@
                     <xsl:apply-templates select="callNumber" mode="holdings"/>
                 </xsl:otherwise>
             </xsl:choose>
-            <xsl:if test="hrid/text()">
-                <mods:holdingExternal>
+            <mods:holdingExternal>
+                <identifier type="uuid"><xsl:value-of select="id"/></identifier>
+                <xsl:if test="hrid/text()">
                     <identifier type="hrid"><xsl:value-of select="hrid"/></identifier>
-                </mods:holdingExternal>
-            </xsl:if>
+                </xsl:if>
+            </mods:holdingExternal>
         </mods:location>
+
     </xsl:template>
 
     <xsl:template match="title" mode="instance">

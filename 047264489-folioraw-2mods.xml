@@ -228,6 +228,9 @@
             <mods:itemIdentifier type="uuid">58cbaeaf-f2c0-444b-89c3-5224cd2012e2</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
+      <mods:holdingExternal>
+         <identifier type="uuid"/>
+      </mods:holdingExternal>
    </mods:location>
    <mods:location>
       <mods:physicalLocation>UB Mainz, ZB/GFG</mods:physicalLocation>
@@ -252,6 +255,9 @@
             <mods:itemIdentifier type="uuid">a0e5ef5c-9478-4663-aa02-216ca2fa4db5</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
+      <mods:holdingExternal>
+         <identifier type="uuid"/>
+      </mods:holdingExternal>
    </mods:location>
    <mods:location>
       <mods:physicalLocation>UB Mainz, ZB/GFG</mods:physicalLocation>
@@ -276,6 +282,9 @@
             <mods:itemIdentifier type="uuid">7b419a5d-8c07-4535-a847-a708684ef1b8</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
+      <mods:holdingExternal>
+         <identifier type="uuid"/>
+      </mods:holdingExternal>
    </mods:location>
    <mods:location>
       <mods:physicalLocation>UB Mainz, ZB/GFG</mods:physicalLocation>
@@ -335,6 +344,9 @@
             <mods:itemIdentifier type="uuid">64c2d78b-81f5-495b-aca6-efd75a572c99</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
+      <mods:holdingExternal>
+         <identifier type="uuid"/>
+      </mods:holdingExternal>
    </mods:location>
    <mods:location>
       <mods:physicalLocation>UB Mainz, BB Theologie</mods:physicalLocation>
@@ -361,6 +373,9 @@
             <mods:itemIdentifier type="uuid">5300d7c0-79a0-409c-a3b6-b5ce42bdef7e</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
+      <mods:holdingExternal>
+         <identifier type="uuid"/>
+      </mods:holdingExternal>
    </mods:location>
    <mods:location>
       <mods:physicalLocation>UB Mainz, ZB/GFG</mods:physicalLocation>
@@ -375,6 +390,9 @@
             <mods:itemIdentifier type="uuid">9097c1a3-ad8c-4352-9ba3-ac7716bc089e</mods:itemIdentifier>
          </mods:copyInformation>
       </mods:holdingSimple>
+      <mods:holdingExternal>
+         <identifier type="uuid"/>
+      </mods:holdingExternal>
    </mods:location>
    <mods:identifier type="1d5cb40c-508f-451b-8952-87c92be4255a">047264489</mods:identifier>
    <mods:identifier type="439bfbae-75bc-4f74-9fc7-b2a2d47ce3ef">224478372</mods:identifier>

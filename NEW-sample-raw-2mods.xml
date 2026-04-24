@@ -63,6 +63,7 @@
          </mods:copyInformation>
       </mods:holdingSimple>
       <mods:holdingExternal>
+         <identifier type="uuid"/>
          <identifier type="hrid">ho123</identifier>
       </mods:holdingExternal>
    </mods:location>
